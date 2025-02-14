@@ -1,0 +1,667 @@
+premise	hypothesis	gold_label	original_premise
+he paid for the damages caused by the accident	he paid for the costs for the accident .	entailment	he absorbed the costs for the accident.
+The sales tax is added to the state income tax	the sales tax is incorporated into the state income tax .	entailment	the sales tax is absorbed into the state income tax.
+Immigrants assimilated into society at a fast rate	the immigrants were quickly assimilated into society .	entailment	the immigrants were quickly absorbed into society.
+Her fascination with butterflies occupies all of her attention	her interest in butterflies engages her completely .	entailment	her interest in butterflies absorbs her completely.
+it is necessary to follow the regulations	you must obey the rules .	entailment	you must adhere to the rules.
+The individuals living in this community practice the Catholic religion	the residents of this village were devoted in belief to catholicism .	entailment	the residents of this village adhered to catholicism.
+there is no answer to this problem	this problem allows for no solution	entailment	this problem admits of no solution
+She expressed her views about welfare	she openly discussed her opinions on welfare	entailment	she aired her opinions on welfare
+This idea will not develop into a significant or productive outcome	this idea will never be worth anything	entailment	this idea will never amount to anything
+my new car responds to the slightest pressure applied to the steering wheel	the steering of my new car is sensitive to the slightest touch	entailment	the steering of my new car answers to the slightest touch
+I began dealing with the issue as soon as I woke up	i tried solving the problem as soon as i got out of bed	entailment	i attacked the problem as soon as i got out of bed
+Which horse are you betting on? (The original sentence contains a metaphorical expression "backing	which horse are you betting on ?	entailment	which horse are you backing?
+she was confronted with numerous issues that led to her feeling disheartened	she was surrounded by so many problems that she got discouraged	entailment	she was besieged by so many problems that she got discouraged
+When speaking into a microphone, she spoke loudly and forcefully	she tended to be loud when speaking into a microphone	entailment	she tended to blast when speaking into a microphone
+meteors shone brightly in the atmosphere	meteors moved quickly across the atmosphere .	entailment	meteors blazed across the atmosphere.
+the difference between the two theories became less clear	the distinction between the two theories became unclear	entailment	the distinction between the two theories blurred
+don't eat your food too quickly	don't swallow your food without chewing !	entailment	don't bolt your food!
+The government yielded to the military demands	the government acquiesced to the military pressure	entailment	the government bowed to the military pressure
+he revived the old house by making improvements or repairs	he brought new life into the old house	entailment	he breathed new life into the old house
+The new synthetic fabric allows for the passage of air and is suitable for summer clothing	our new synthetic fabric exchanges gases with the environment and is perfect for summer wear	entailment	our new synthetic fabric breathes and is perfect for summer wear
+It is necessary for this rare Bordeaux wine to be exposed to air for a minimum of	this rare bordeaux must be allowed to be exposed to the air for at least 2 hours	entailment	this rare bordeaux must be allowed to breathe for at least 2 hours
+there is a great deal of work being done in this office	this office is full of activity	entailment	this office is buzzing with activity
+he rang the bell for the servant to come	he communicated with the servant by means of a buzzer	entailment	he buzzed the servant
+she won the affection of all the men	she charmed all the men	entailment	she captured all the men's hearts
+The judge ordered that the man be taken to a cell and kept there	the judge hastily put him in jail	entailment	the judge clapped him in jail
+They ascended the mountain using their hands and fingers	they physically exerted themselves to climb to the top of the mountain	entailment	they clawed their way to the top of the mountain.
+She grasped the doorknob firmly with her fingers	she grabbed the doorknob with her fingertips .	entailment	she clawed the doorknob.
+The politician used his fingers to scratch his rival	the politician flattered his rival .	entailment	the politician clawed his rival.
+after a decrease in prices, sales increased	sales were steadily increasing after prices were lowered	entailment	sales were climbing after prices were lowered
+The path ascended to the summit of the hill	the path extended all the way to the top of the hill	entailment	the path climbed all the way to the top of the hill
+This young man is skilled at advancing his social status	this young man knows how to improve his position in the social hierarchy	entailment	this young man knows how to climb the social ladder
+prices increased at a significant rate	prices went up steeply	entailment	prices climbed steeply
+these operations are causing the market to become congested	the market is being hindered by these operations	entailment	the market is being clogged by these operations
+fear prevented clear thinking in her mind	fear impeded her thoughts	entailment	fear clogged her mind
+my emotions influence my perspective on this matter	my personal feelings influence my judgment in this case	entailment	my personal feelings color my judgment in this case
+The content of his lectures reflects his political beliefs	his political ideas influence his lectures	entailment	his political ideas color his lectures
+the rooms were interconnected	the rooms were connected to each other	entailment	the rooms communicated
+His wife's illness kept him from socializing frequently	his devotion to his sick wife made him have a lonely existence	entailment	his devotion to his sick wife condemned him to a lonely existence
+The fire destroyed the building by burning it completely	the fire overtook the building	entailment	the fire consumed the building
+The comedian caused the crowd to laugh uncontrollably	the comedian created great laughter in the crowd	entailment	the comedian convulsed the crowd
+I will assist you whenever you need help	you can trust me to help you any time	entailment	you can count on me to help you any time
+The old cheese was infested with live flies or their larvae	the old cheese had maggots crawling on it	entailment	the old cheese was crawling with maggots
+The speech concluded the meeting	the speech completed the meeting	entailment	the speech crowned the meeting
+At the top of the building, there is a weather vane	a weather vane sits atop the building	entailment	a weather vane crowns the building
+His rejection of her invitation left her feeling very disappointed and sad	she was saddened by his refusal of her invitation	entailment	she was crushed by his refusal of her invitation
+Seurat reached the highest level of development in pointillism	seurat was the climax of pointillism .	entailment	seurat culminated pointillism.
+disappointed by the refusal	disheartened by the refusal	entailment	dashed by the refusal
+He came to realize that she had deceived him	he realized that she had betrayed him	entailment	it dawned on him that she had betrayed him
+the use of computers had become commonplace	the age of computers had begun	entailment	the age of computers had dawned
+the negative evaluation of his work reduced his belief in his abilities	the bad review of his work diminished his self-confidence	entailment	the bad review of his work deflated his self-confidence
+the new measures had a negative impact on the economy	the new measures lowered the general level of prices in the economy	entailment	the new measures deflated the economy
+an excessive amount of oil led to a decrease in gas prices	the glut of oil reduced gas prices	entailment	the glut of oil depressed gas prices
+The amount of rainfall had decreased, resulting in a lower water level in the reservoir	the lack of rain had lowered the water level in the reservoir	entailment	the lack of rain had depressed the water level in the reservoir
+She created a valid reason for not going to classes that day	she came up with a good excuse for not attending classes that day .	entailment	she designed a good excuse for not attending classes that day.
+Our home was consumed by fire	fire had decimated our home	entailment	fire had devoured our home
+She consumed all of his novels	she avidly read his novels	entailment	she devoured his novels
+This information overwhelms me	i cannot comprehend all this information	entailment	i cannot digest all this information
+The government transformed the entire law into a written code	the government arranged the entire law into a code	entailment	the government digested the entire law into a code
+Before dinner, he consumed three martinis	he drank three martinis before dinner.	entailment	he downed three martinis before dinner.
+Some people consume over a pound of meat during a single meal	some people can swallow a pound of meat in the course of one meal.	entailment	some people can down a pound of meat in the course of one meal.
+The prices of stocks are gradually increasing	stock prices are steadily moving higher	entailment	stock prices are drifting higher
+My son lived in California for several years before attending law school	my son wandered around for years in california before going to law school	entailment	my son drifted around for years in california before going to law school
+The stock market experienced a gradual increase in value	the stock market steadily moved upward	entailment	the stock market drifted upward
+The mother listens carefully to every word spoken by her son during his stage performance	the mother is completely attentive to every word of her son on the stage	entailment	the mother drinks in every word of her son on the stage
+I was overwhelmed by the amount of work I had to do	i was overwhelmed by work	entailment	i was drowned in work
+She consumed large amounts of alcohol in an attempt to alleviate her emotional distress	she covered up her trouble with alcohol	entailment	she drowned her trouble in alcohol
+In the stage of her life called middle age, her desire for traveling lessened	middle age lessened her desire for travel	entailment	middle age dulled her appetite for travel
+The company terminated his employment after many years of working for them	the company fired him after many years of service	entailment	the company dumped him after many years of service
+The study produced some favorable outcomes	some nice results happened as a result of the study	entailment	some nice results emerged from the study
+the event left a deep impression on her memory	the event was added firmly into her memory	entailment	the event engraved itself into her memory
+	the turks eradicated the armenians in 1915	entailment	the turks erased the armenians in 1915
+When he learned that the secretary was resigning, the boss reacted strongly	the boss became very angry when he heard of the resignation of the secretary	entailment	the boss exploded when he heard of the resignation of the secretary
+The Middle East is undergoing significant political and social changes	the middle east is becoming more agitated	entailment	the middle east is fermenting
+make the child feel proud of himself/herself	make the child feel proud	entailment	fill the child with pride
+Each star appeared to shine more brightly	every star seemed to shine with new intensity	entailment	every star seemed to flare with new intensity.
+The night sky was illuminated by the large-scale explosion	the night sky lit up with the massive bombardment.	entailment	the night sky flared with the massive bombardment.
+The most recent information is communicated to all command posts	the latest intelligence is communicated quickly to all command posts	entailment	the latest intelligence is flashed to all command posts
+The father hit him with his hand	the father hit him swiftly with his hand.	entailment	the father flicked him with his hand.
+The Republicans are proposing a change to the tax system	the republicans are proposing the idea of a tax reform	entailment	the republicans are floating the idea of a tax reform
+The dancer moved gracefully and weightlessly, as if she was not touching the ground, on	the dancer moved fluidly across the stage	entailment	the dancer floated across the stage
+The government allowed the ruble to be traded on international markets for several months	the government allowed the value of the ruble to be determined by the markets for a few months	entailment	the government floated the ruble for a few months
+The crowd exited the stadium in large numbers	the crowd moved as a liquid out of the stadium	entailment	the crowd flowed out of the stadium
+The sky took on a rosy hue	the sky glowed with rosy splendor	entailment	the sky flushed with rosy splendor
+shape the young child's personality	develop the young child's character	entailment	form the young child's character
+the press was prevented from reporting or publishing information	the press was silenced	entailment	the press was gagged
+The moon reflected its light onto the lake's surface	the moon showed its reflection in the lake's surface	entailment	the moon glared back at itself from the lake's surface
+The sun shone directly towards us	the sun shone brightly down on us	entailment	the sun glared down on us
+her face was radiant after she emerged from the sauna	her face shined when she came out of the sauna	entailment	her face glowed when she came out of the sauna
+this story will hold your attention effectively	this story will interest you	entailment	this story will grab you
+The conversation focused on political topics	the subject of the conversation changed to politics	entailment	the conversation gravitated towards politics
+he struggled to understand the relationship between the two things	his mind attempted to make the connection	entailment	his mind groped to make the connection
+The raindrops ran down the ground in large quantities	the heavy rain made channels in the soil.	entailment	the heavy rain guttered the soil.
+align one's objectives with one's capabilities	make one's goals compatible with one's abilities	entailment	harmonize one's goals with one's abilities
+These rivers originate from a mountain range located in the Himalayas	these rivers originate from a mountain range in the himalayas	entailment	these rivers head from a mountain range in the himalayas
+The wheat reached maturity and was ready for harvest earlier than usual this year	the wheat came up from the soil early this year	entailment	the wheat headed early this year
+he assigned him numerous tasks	he burdened him with work	entailment	he heaped him with work
+The oscillator adjusts its frequency around the target value	the oscillator moves in a state of instability about the correct frequency	entailment	the oscillator hunts about the correct frequency
+The extravagant lifestyle of the wealthy causes resentment among the impoverished	the ostentatious way of living of the rich triggers the hatred of the poor	entailment	the ostentatious way of living of the rich ignites the hatred of the poor
+their language makes us think they are telling the truth	their language makes us consider believing them	entailment	their language inclines us to believe them
+his laughter causes others in the same room to laugh as well	his laughter spreads to everyone who is in the same room	entailment	his laughter infects everyone who is in the same room
+the prices of the charges were increased	the charges were exaggerated	entailment	the charges were inflated
+increase the supply of currency in circulation	increase the quantity of the currency	entailment	inflate the currency
+he revived the performance with fresh energy	he brought novelty into the performance	entailment	he injected new life into the performance
+she had to manage her employment responsibilities and take care of her children simultaneously	she had to manage her job and her children at the same time	entailment	she had to juggle her job and her children
+The gun recoiled and hit my shoulder	the gun recoiled into my shoulder.	entailment	the gun kicked back into my shoulder.
+The businessman obtained millions of dollars through fraudulent means	the businessman stole millions of dollars	entailment	the businessman kited millions of dollars
+this could result in your arrest	this may result in your being in jail	entailment	this may land you in jail
+establish the initial framework for a new health care program	make the start for a new health care plan	entailment	lay the foundation for a new health care plan
+assign a task to someone	give someone a responsibility	entailment	lay a responsibility on someone
+the news became known to the paper without it being officially announced	the news were revealed secretly to the paper	entailment	the news were leaked to the paper
+the news became known to the public despite his efforts to keep it hidden	the news was revealed publicly despite his secrecy	entailment	the news leaked out despite his secrecy
+Westerns possess a quality of being timeless and reminiscent of ancient gladiatorial cont	Westerns have a violent-like-gladiator-combat , timeless quality .	entailment	‘ Westerns have a gladiatorial , timeless quality .
+The sale of the item for £did not occur immediately, as I	£45,000 was the asking price and I was not surprised that the sale , so to speak , was delayed .	entailment	£45,000 was the asking price and I was not surprised that the sale , so to speak , hung fire .
+Primal Scream is not known for producing soft, introspective musical compositions	Primal Scream Not a name which would lead you to expect self-absorbed acoustic pieces of music .	entailment	Primal Scream Not a name which would lead you to expect self-absorbed acoustic doodlings .
+London's leading pair reacted to this by making September last a particularly long time	London 's leading pair , as if annoyed by this , turned 30 September into the longest afternoon .	entailment	London 's leading pair , as if piqued by this , turned 30 September into the longest afternoon .
+The voice on the phone was noticeably enthusiastic, and it took him a minute to understand the	The voice at the other end was plainly over-excited and it took him a minute to separate into discrete units what he was being told .	entailment	The voice at the other end was plainly over-excited and it took him a minute to disentangle what he was being told .
+A fly alighted on the vacant, unblinking helmet visor, and moved along	A fly landed on the empty , shiny vizor , and crawled across it .	entailment	A fly landed on the empty , staring vizor , and crawled across it .
+The stains on the carpet have remained despite all the renaming of the place	The stains on the carpet have outlasted every name change .	entailment	The stains on the carpet have survived every name change .
+Paula leaned against the cutting table in an attempt to appear unconcerned	Paula stayed in an elevated position against the cutting table trying to look nonchalant .	entailment	Paula perched herself against the cutting table trying to look nonchalant .
+Locate a Toyota Corolla or a	Find a 1980 Toyota Corolla or 1982 Nissan Sunny that has not yielded to rust , and you can buy with confidence .	entailment	Find a 1980 Toyota Corolla or 1982 Nissan Sunny that has not succumbed to rust , and you can buy with confidence .
+A dog barked from one of the stone sheds, but there was no evidence of anyone being	The muffled barking of a dog came from one of the stone sheds , but there was no sign of life around the buildings .	entailment	The hollow barking of a dog came from one of the stone sheds , but there was no sign of life around the buildings .
+Recently, there has been an additional aspect to the situation, involving both media and politicians as well as	Recently , of course , there has been an added dimension — part given excessive and meaningless words by media and politicians , part real : drugs .	entailment	Recently , of course , there has been an added dimension — part media-and-politician inflated , part real : drugs .
+It would also guarantee that workers have legal protections and lessen the focus on union privile	Second , it would ensure that workers enjoyed positive rights under law and reduce the emphasis of union exemptions from specified duties .	entailment	Second , it would ensure that workers enjoyed positive rights under law and reduce the emphasis of union immunities .
+Extremely tired	Very tired .	entailment	Exhausted .
+They manage to convince their parents of the positive aspects of their situation, providing them with a sense of	They win their parents over with an optimistic vision of the world which is decidedly reassuring .	entailment	They win their parents over with a rose-tinted vision of the world which is decidedly reassuring .
+Regardless of the location, the clothing choices vary — some individuals wear slacks in this place,	No matter ; only the accents change — and the pants : here , the socially conventional people wear slacks , the good guys blue-jeans .	entailment	No matter ; only the accents change — and the pants : here , the squares wear slacks , the good guys blue-jeans .
+Other organizations could not merge into the Central Office but could still come under its control	Other organizations could not be incorporated but could still be brought within the Central Office orbit .	entailment	Other organizations could not be absorbed but could still be brought within the Central Office orbit .
+Nor, if we possess a refined manner, do we intend to get intoxicated	Nor , if we are in civilised mindset , because we wish to become drunk .	entailment	Nor , if we are in civilised cast of mind , because we wish to become drunk .
+Was a tiger, moving silently, hiding in the metal jungle and potentially approaching them?	Was it even now secretly following them , moving soundlessly from cover to cover , like a tiger in the steel jungle ?	entailment	Was it even now shadowing them , moving soundlessly from cover to cover , like a tiger in the steel jungle ?
+Berry's songs express the feelings and experiences of rock'n'roll rebellion or youth	Berry 's songs are plausible representations of rock'n'roll rebellion or , at any rate , youthful hedonism .	entailment	Berry 's songs are plausible emblems of rock'n'roll rebellion or , at any rate , youthful hedonism .
+appears to be fully conscious; could have woken up	seems to be awake and very alert could of got up	entailment	seems to be wide awake could of got up
+Rocastle performed a step-over, allowing him to bypass Thomas, who was advancing	A neat step-over by Rocastle sent Thomas hurtling in on goal but Rhodes moved sharply off his line to get in the way of the shot .	entailment	A neat step-over by Rocastle sent Thomas hurtling in on goal but Rhodes moved sharply off his line to smother the shot .
+She survived for a couple of years after suffering a stroke	Well I suppose she lived er a couple of years after the stroke Gordon .	entailment	Well I reckon she lived er a couple of years after the stroke Gordon .
+Since the trust took over, there has been an increase in the amount of paperwork we have had	‘ We 've had more paperwork , not less , since the trust took over , ’ Buzz said severely .	entailment	‘ We 've had more paperwork , not less , since the trust took over , ’ Buzz said tartly .
+You might have thought this was the police making threats or using force	You might have assumed this was the police scaring with a false show of strength and bullying .	entailment	You might have assumed this was the police bluffing and bullying .
+Rescue you from carrying them	Except for you , except for you carrying them .	entailment	Save you , save you carrying them .
+She dozed off while hearing soft music coming from the drawing-room	She fell asleep to the sound of music emanating from the drawing-room .	entailment	She fell asleep to the sound of music drifting upwards from the drawing-room .
+You must wait for it to become less empty and allow life to enter	You have to hope that its blankness will slowly clear away and let life in .	entailment	You have to hope that its blankness will slowly dissolve and let life in .
+In industrialised societies, the elimination of hazardous wastes is a complex and challenging issue	The disposal of toxic wastes is one of the most difficult problems for industrialised societies to solve .	entailment	The disposal of toxic wastes is one of the most intractable problems facing industrialised societies .
+Those who disapprove or dismiss these appetites, whether identified as puritans or pess	Let puritans and pessimists damn , disapprove or dismiss these strong desires ; that is their loss .	entailment	Let puritans and pessimists damn , disapprove or dismiss these appetites ; that is their loss .
+Avon moves carefully	Avon proceeds warily .	entailment	Avon treads warily .
+Although there were numerous and diverse actions taken by Arsenal during the first minutes, they	Despite many and varied sudden activities in the first 40 minutes , Arsenal seemed reasonably secure if not inspired .	entailment	Despite many and varied flurries of activity in the first 40 minutes , Arsenal seemed reasonably secure if not inspired .
+The house, made of red bricks, was not illuminated by golden light	No golden light surrounded the red brick of the house .	entailment	No golden light bathed the red brick of the house .
+Does the rule regarding ' serious physical injury ' go beyond the boundaries of what is considered murder ?	Does the ‘ grievous bodily harm ’ rule add too much to the definition of murder ?	entailment	Does the ‘ grievous bodily harm ’ rule extend the definition of murder too far ?
+After closing the front door, Adam hesitated for a moment before stepping away	Adam closed the front door and stood there for a moment as if he could not pull himself away .	entailment	Adam closed the front door and stood there for a moment as if he could not wrench himself away .
+In the first attempt, all the necessary elements were successfully included	This was conveniently summarized briefly in the first try .	entailment	This was conveniently encapsulated in the first try .
+However, the unions were not the only ones engaging in assuming false positions and feigning actions	But ‘ pretending to have an opinion ’ went far beyond the unions .	entailment	But ‘ posturing and pretending ’ went far beyond the unions .
+Following this, the Intifada would strengthen its reputation as a productive, rather than a destructive	Second , it would strengthen the image and essence of the Intifada as a constructive , not a destructive , force .	entailment	Second , it would consolidate the image and essence of the Intifada as a constructive , not a destructive , force .
+And the Spirit descended towards the earth	And the Spirit , lowering itself earthward ,	entailment	And the Spirit ,  stooping  earthward ,
+Drew a curved route for it	Lightly drew a winding pathway for it ,	entailment	Traced  a winding pathway for it ,
+Then a large, white cloud began to spread out	Then a snow-white cloud developing ,	entailment	Then a snow-white cloud  unfolding  ,
+Until it reached the highest point in the sky	Till it reached the top of heaven ,	entailment	Till it  touched  the top of heaven ,
+Now it is clear that we have the greatest strength	Now you discover that we are strongest ,	entailment	Now you  find  that we are strongest ,
+only added fuel to the fire	Only caused the fire to burn brighter ,	entailment	Only  made  the fire burn brighter ,
+Ran my hands over the rough hills in a gentle manner	Added smoothness to the rugged hills ,	entailment	Touched  the rugged hills with smoothness ,
+His eyes were focused on their footprints	On their tracks his eyes were fixated ,	entailment	On their tracks his eyes were  fastened  ,
+His heart beat rapidly inside his chest	And his heart within him pumped rapidly ,	entailment	And his heart within him  fluttered  ,
+Hiawatha was deeply impressed and felt great admiration	Experiencing great awe was Hiawatha	entailment	Filled  with awe was Hiawatha
+Mudjekeewis experienced great happiness	Experiencing great joy was Mudjekeewis	entailment	Filled  with joy was Mudjekeewis
+He experienced a memory of his younger days	Saw his youth rebel before him	entailment	Saw his youth  rise  up before him
+You make the past days reappear or come back	You bring back the days past ,	entailment	You bring back the days  departed  ,
+You revive in me the intense emotions I had during my youth	You restore my youth of passion ,	entailment	You  bring  back my youth of passion ,
+A long time has passed since that day	In the days long since past ,	entailment	In the days long since  departed  ,
+Put thoughts or ideas into the minds of young men	Occupy the fiery brains of young men ?	entailment	Fill  the fiery brains of young men ?
+When he touched him, he felt an increase in courage	At his touch he experienced new courage	entailment	At his touch he  felt  new courage
+Until the night enveloped them completely	Till the darkness surrounded them ,	entailment	Till the darkness  fell  around them ,
+When earth comes into contact with it, a form begins to emerge	Assuming shape when earth it touches ,	entailment	Taking  shape when earth it touches ,
+Until the night enveloped them completely	Till the darkness surrounded them ,	entailment	Till the darkness  fell  around them ,
+Until the night sets in for us	Till the darkness surrounds us ,	entailment	Till the darkness  falls  around us ,
+Concerned that his strength might weaken or give out	Fearing lest he should lose his strength ,	entailment	Fearing lest his strength should  fail  him ,
+The landscape revolved around him	Round about him enveloped the landscape ,	entailment	Round about him  spun  the landscape ,
+His heart beat strongly within his chest	And he became very happy ,	entailment	And his strong heart  leaped  within him ,
+The horizon was characterized by intense redness and widening appearance	Shone like fire and flared the red horizon ,	entailment	Blazed  and flared the red horizon ,
+The horizon was characterized by intense redness and a noticeable widening	Blazed and shone out suddenly the red horizon ,	entailment	Blazed and  flared  the red horizon ,
+communicated to the people the information that had been kept secret before	And made the people know about	entailment	And  made  known unto the people
+The pathway was directly located between them	Straight between them extended the pathway ,	entailment	Straight between them  ran  the pathway ,
+They were unable to create hostility towards each other	Could not create ill-will between them ,	entailment	Could not  breed  ill-will between them ,
+They consulted with one another	For they listened to each other 's advice ,	entailment	For they  kept  each other 's counsel ,
+Now he aroused strong emotions in them	Now he made their souls passionate ,	entailment	Now he  stirred  their souls to passion ,
+Now he managed to make them feel deep sympathy for him	Now he humbled them to pity .	entailment	Now he  melted  them to pity .
+The feelings of all men were made more sensitive	All the men were made kinder and gentler	entailment	All the hearts of men were  softened
+His strength is combined with goodness	For his strength united with goodness .	entailment	For his strength  allied  to goodness .
+Rose did not respond angrily to 's statement	Rose , but gave no angry answer ,	entailment	Rose , but  made  no angry answer ;
+A small stream guided them further	Where they followed a brooklet onward ,	entailment	Where a brooklet  led  them onward ,
+They did not respond to the challenge posed by them	To their challenge gave no answer ,	entailment	To their challenge  made  no answer ,
+The season of summer is approaching	For the Summer-time will soon begin ,	entailment	For the Summer-time is  coming  ,
+Heard a loud, fearful noise	A sound let out , a cry of horror ,	entailment	Went  a sound , a cry of horror ,
+His thoughts functioned like paddles for him	For his thoughts functioned as paddles for him ,	entailment	For his thoughts as paddles  served  him ,
+His desires influenced his actions	And his wishes were useful for guiding him ;	entailment	And his wishes  served  to guide him ;
+His desires influenced his actions	And his wishes served to give him a sense of direction ;	entailment	And his wishes served to  guide  him ;
+Until the waves reached the rib cage	Till the waves flowed through the rib-bones ,	entailment	Till the waves  washed  through the rib-bones ,
+With their breath, they produced a strong heat	With their fiery breath gave an answer :	entailment	With their fiery breath  made  answer :
+Until the moon was directly overhead and shone down on him	Till the level moon shone constantly on him	entailment	Till the level moon  stared  at him
+He dealt blows to it, but it was not harmed	Harmless landed the blows he dealt it	entailment	Harmless  fell  the blows he dealt it
+The harmless war-club fell down heavily	Harmless struck the heavy war-club ;	entailment	Harmless  fell  the heavy war-club ;
+From which branches hang mosses	From whose branches hanged the mosses ,	entailment	From whose branches  trailed  the mosses ,
+Him, who caused the high fever in	Him who gave the fiery fever ,	entailment	Him , who  sent  the fiery fever ,
+His heartbeat was faster than his walking pace	And his heart lasted longer than his footsteps ;	entailment	And his heart  outran  his footsteps ;
+Then, he added his comments, articulating each word deliberately	And then said additionally , speaking slowly ,	entailment	And then  added  , speaking slowly ,
+responded seriously to 's question	And gave an answer very gravely :	entailment	And  made  answer very gravely :
+Express your feelings openly, Minnehaha	Speak sincerely , Minnehaha !	entailment	Let your heart  speak  , Minnehaha ! "
+He slowed down his speed	Though his pace he limited and slackened	entailment	Though his pace he  checked  and slackened
+He slowed down his speed	Though his pace he checked and gradually decreased in intensity	entailment	Though his pace he checked and  slackened
+We wish that the time could move faster	That the time might progress more gayly ,	entailment	That the time might  pass  more gayly ,
+I wish the time would pass more quickly	That the time may progress more gayly ,	entailment	That the time may  pass  more gayly ,
+I wish the time would pass more quickly	That the time may advance more gayly ,	entailment	That the time may  pass  more gayly ,
+Just like springs that come into contact with sunlight,	As the springs to be exposed to the sunshine ,	entailment	As the springs to  meet  the sunshine ,
+When the clouds are directly overhead, casting their shadows on it	When the clouds make shadows on it !	entailment	When the clouds  drop  shadows on it !
+My heart feels lighter after being troubled	Then my troubled heart is made more cheerful ,	entailment	Then my troubled heart is  brightened  ,
+They gave him applause that he felt envious of	Jealous of the applause they made for him ,	entailment	Jealous of the applause they  gave  him ,
+Would you please believe what he says?	Would you only believe him ,	entailment	Would you only  give  him credence ,
+I wish the time would pass more quickly	That the time may advance more gayly ,	entailment	That the time may  pass  more gayly ,
+All the water turned completely red	All the water given a crimson color !	entailment	All the water  flushed  with crimson !
+They perceived an increase in it	And they experienced it rising , rising	entailment	And they  felt  it rising , rising ,
+They sensed an increase in it	And they felt it increasing, increasing	entailment	And they felt it  rising  , rising ,
+I was unable to perceive the intensity of your emotions	Could not experience your heart of passion	entailment	Could not  see  your heart of passion ,
+After those days that brought happiness,	Of the happy days that occurred afterward	entailment	Of the happy days that  followed  ,
+Clad in darkness	Surrounded by darkness like a garment	entailment	Robed  with darkness as a garment .
+Until the trees around us were shaking with the sound of genuine laughter	Till the tree-tops shook from the laughter of creatures on them	entailment	Till the tree-tops  shook  with laughter ,
+Once the night came without making any noise	When the noiseless night began	entailment	When the noiseless night  descended
+Guskewau was enveloped by the darkness	Guskewau , the darkness , surrounded her	entailment	Guskewau , the darkness ,  wrapped  her
+Until the cornfields were filled with actual laughter from people	Till the cornfields reverberated with laughter	entailment	Till the cornfields  rang  with laughter ,
+And the melody that this shape inspired generated sentence: And the sound that was produced by observing	And the song this shape reminded one of	entailment	And the song this shape  suggested
+I have such a powerful influence over you	Such the spell I made upon you	entailment	Such the spell I  cast  upon you ,
+Made the entire earth completely quiet	Made everything on the earth silent	entailment	Covered  all the earth with silence ,
+Spring arrived, and all the forest began to show signs of new growth	Began the Spring , and all the forest	entailment	Came  the Spring , and all the forest
+Clouds are being removed from the sky	As the clouds are cleared from heaven	entailment	As the clouds are  swept  from heaven ,
+As ice is removed from rivers	As the ice is carried from rivers	entailment	As the ice is  swept  from rivers ,
+The heavens were located much higher than him	Far above him things moved in the heavens	entailment	Far above him  swam  the heavens ,
+He will not be harmed by my desire for retribution	That my vengeance shall not affect him !	entailment	That my vengeance shall not  reach  him ! "
+He answered in a cautious manner	With reserve he thus gave an answer	entailment	With reserve he thus  made  answer :
+Until it had gathered itself, or Until it had collected itself	Till it pulled itself together	entailment	Till it  drew  itself together ,
+Until it assumed the shape and characteristics	Till it acquired the form and features	entailment	Till it  took  the form and features
+Using a large club, he struck the doorways	With his war-club struck the doorways	entailment	With his war-club  smote  the doorways ,
+Kwasind felt a strong desire to sleep	Kwasind experienced a drowsiness	entailment	Fell  a drowsiness on Kwasind ;
+The winter storm was very windy and noisy	Raged and made a loud resounding noise the wintry tempest	entailment	Raged and  roared  the wintry tempest ,
+Disasters do not occur one at a time	So disasters occur not singly	entailment	So disasters  come  not singly ;
+Their features did not change at all	Not a change happened to their features	entailment	Not a change  came  o'er their features ;
+We have tested or examined you	We have made you undergo the trial	entailment	We have  put  you to the trial ,
+Collapsed and was unable to stand up due to weakness	Fell , and could not improve their situation from weakness	entailment	Fell , and could not  rise  from weakness ,
+She covered her face without responding	Hid her face , but gave no answer	entailment	Hid her face , but  made  no answer ;
+Based on their facial expressions towards her	At the looks they gave to her	entailment	At the looks they  cast  upon her ,
+We can spend the night in each other's company	Let us spend the night together	entailment	Let us  pass  the night together ,
+All meadows have flowers growing in them and they sway gently in the wind	All the meadows move back and forth repeatedly with blossoms	entailment	All the meadows  wave  with blossoms ,
+As they talked, the night passed	While they spake , the night ended	entailment	While they spake , the night  departed  :
+Spring arrived, bringing with it its beauty	The Spring happened with all its splendor	entailment	Came  the Spring with all its splendor ,
+Received sunlight on his face	Shone the sunshine on his features	entailment	Fell  the sunshine on his features ,
+Experienced the evening with its decreasing light and lower temperatures	Began the evening 's dusk and coolness	entailment	Fell  the evening 's dusk and coolness ,
+He is troubled by him; he casts malevolent glances at him	Torments him ; round he looks with his baleful eyes	entailment	Torments him ; round he  throws  his baleful eyes
+Rest and hope are perpetually absent	And rest can never stay , hope never comes	entailment	And rest can never  dwell  , hope never comes
+Rest never settles, hope never arrives	And rest can never dwell , hope is never felt	entailment	And rest can never dwell , hope never  comes
+he learned the knowledge and beliefs of his tribe	he learned the knowledge or beliefs of his tribe.	entailment	he absorbed the knowledge or beliefs of his tribe.
+he paid for the damages caused by the accident	he took the costs for the accident.	entailment	he absorbed the costs for the accident.
+The sales tax is added to the state income tax	the sales tax is incorporated into the state income tax.	entailment	the sales tax is absorbed into the state income tax.
+Immigrants assimilated into society at a fast rate	the immigrants were quickly assimilated into society.	entailment	the immigrants were quickly absorbed into society.
+it is necessary to follow the regulations	you must obey the rules.	entailment	you must adhere to the rules.
+The individuals living in this community practice the Catholic religion	the residents of this village were religious about catholicism.	entailment	the residents of this village adhered to catholicism.
+there is no answer to this problem	this problem has no solution	entailment	this problem admits of no solution
+She expressed her views about welfare	she broadcasted her opinions on welfare	entailment	she aired her opinions on welfare
+This idea will not develop into a significant or productive outcome	this idea will never become anything	entailment	this idea will never amount to anything
+I began dealing with the issue as soon as I woke up	i dealt with the problem as soon as i got out of bed	entailment	i attacked the problem as soon as i got out of bed
+Which horse are you betting on? (The original sentence contains a metaphorical expression "backing	which horse are you supporting?	entailment	which horse are you backing?
+she was confronted with numerous issues that led to her feeling disheartened	she was overwhelmed by so many problems that she got discouraged	entailment	she was besieged by so many problems that she got discouraged
+meteors shone brightly in the atmosphere	meteors burned across the atmosphere.	entailment	meteors blazed across the atmosphere.
+the difference between the two theories became less clear	the distinction between the two theories became less dinstinguishable 	entailment	the distinction between the two theories blurred
+don't eat your food too quickly	don't eat your food too fast!	entailment	don't bolt your food!
+The government yielded to the military demands	the government succumb to the military pressure	entailment	the government bowed to the military pressure
+he revived the old house by making improvements or repairs	he brought new life into the old house	entailment	he breathed new life into the old house
+The new synthetic fabric allows for the passage of air and is suitable for summer clothing	our new synthetic fabric allows sweat to evaporate and is perfect for summer wear	entailment	our new synthetic fabric breathes and is perfect for summer wear
+It is necessary for this rare Bordeaux wine to be exposed to air for a minimum of	this rare bordeaux must be allowed to be exposed to the air for at least 2 hours	entailment	this rare bordeaux must be allowed to breathe for at least 2 hours
+there is a great deal of work being done in this office	this office is full of activity	entailment	this office is buzzing with activity
+he rang the bell for the servant to come	he signalled the servant with a buzz	entailment	he buzzed the servant
+she won the affection of all the men	she made all the men fall in love with her	entailment	she captured all the men's hearts
+The judge ordered that the man be taken to a cell and kept there	the judge sentenced him to stay in jail	entailment	the judge clapped him in jail
+They ascended the mountain using their hands and fingers	they climbed their way to the top of the mountain.	entailment	they clawed their way to the top of the mountain.
+She grasped the doorknob firmly with her fingers	she scratched the doorknob with nails.	entailment	she clawed the doorknob.
+The politician used his fingers to scratch his rival	the politician harmed his rival politically.	entailment	the politician clawed his rival.
+after a decrease in prices, sales increased	sales were increasing after prices were lowered	entailment	sales were climbing after prices were lowered
+The path ascended to the summit of the hill	the path ascended all the way to the top of the hill	entailment	the path climbed all the way to the top of the hill
+prices increased at a significant rate	prices increased steeply	entailment	prices climbed steeply
+these operations are causing the market to become congested	the market is being obstructed by these operations	entailment	the market is being clogged by these operations
+fear prevented clear thinking in her mind	fear impaired her mind	entailment	fear clogged her mind
+my emotions influence my perspective on this matter	my personal feelings affect my judgment in this case	entailment	my personal feelings color my judgment in this case
+The content of his lectures reflects his political beliefs	his political ideas make his lectures biased	entailment	his political ideas color his lectures
+the rooms were interconnected	the rooms were interconnected 	entailment	the rooms communicated
+His wife's illness kept him from socializing frequently	his devotion to his sick wife caused him to have a lonely existence	entailment	his devotion to his sick wife condemned him to a lonely existence
+she experienced intense emotions	her feelings became more compact	entailment	her feelings condensed
+The fire destroyed the building by burning it completely	the fire destroyed the building	entailment	the fire consumed the building
+The comedian caused the crowd to laugh uncontrollably	the comedian caused the crowd to shake violently because of laughter	entailment	the comedian convulsed the crowd
+I will assist you whenever you need help	you can have confidence in me to help you any time	entailment	you can count on me to help you any time
+The old cheese was infested with live flies or their larvae	the old cheese was covered by maggots	entailment	the old cheese was crawling with maggots
+The speech concluded the meeting	the speech culminated the meeting	entailment	the speech crowned the meeting
+At the top of the building, there is a weather vane	a weather vane is on the top of the building	entailment	a weather vane crowns the building
+His rejection of her invitation left her feeling very disappointed and sad	she was depressed by his refusal of her invitation	entailment	she was crushed by his refusal of her invitation
+Seurat reached the highest level of development in pointillism	seurat brought pointillism to its best.	entailment	seurat culminated pointillism.
+disappointed by the refusal	discourged by the refusal	entailment	dashed by the refusal
+He came to realize that she had deceived him	it became apparent to him that she had betrayed him	entailment	it dawned on him that she had betrayed him
+the use of computers had become commonplace	the age of computers had started	entailment	the age of computers had dawned
+the negative evaluation of his work reduced his belief in his abilities	the bad review of his work reduced his self-confidence	entailment	the bad review of his work deflated his self-confidence
+the new measures had a negative impact on the economy	the new measures reduced activities in the economy	entailment	the new measures deflated the economy
+an excessive amount of oil led to a decrease in gas prices	the glut of oil lowered gas prices	entailment	the glut of oil depressed gas prices
+The amount of rainfall had decreased, resulting in a lower water level in the reservoir	the lack of rain had lowered the water level in the reservoir	entailment	the lack of rain had depressed the water level in the reservoir
+She created a valid reason for not going to classes that day	she made a good excuse for not attending classes that day.	entailment	she designed a good excuse for not attending classes that day.
+Our home was consumed by fire	fire had destroyed our home	entailment	fire had devoured our home
+She consumed all of his novels	she finished reading his novels	entailment	she devoured his novels
+This information overwhelms me	i cannot understand all this information	entailment	i cannot digest all this information
+The government transformed the entire law into a written code	the government summarized the entire law into a code	entailment	the government digested the entire law into a code
+Before dinner, he consumed three martinis	he drank three martinis before dinner.	entailment	he downed three martinis before dinner.
+Some people consume over a pound of meat during a single meal	some people can consume a pound of meat in the course of one meal.	entailment	some people can down a pound of meat in the course of one meal.
+The prices of stocks are gradually increasing	stock prices are varying higher	entailment	stock prices are drifting higher
+My son lived in California for several years before attending law school	my son lived without a purpose for years in california before going to law school	entailment	my son drifted around for years in california before going to law school
+The stock market experienced a gradual increase in value	the stock market varied upward	entailment	the stock market drifted upward
+The mother listens carefully to every word spoken by her son during his stage performance	the mother pays close attention to in every word of her son on the stage	entailment	the mother drinks in every word of her son on the stage
+I was overwhelmed by the amount of work I had to do	i was overwhelmed by work	entailment	i was drowned in work
+She consumed large amounts of alcohol in an attempt to alleviate her emotional distress	she got rid of her trouble with alcohol	entailment	she drowned her trouble in alcohol
+In the stage of her life called middle age, her desire for traveling lessened	middle age made her lose her appetite for travel	entailment	middle age dulled her appetite for travel
+The company terminated his employment after many years of working for them	the company got rid of him after many years of service	entailment	the company dumped him after many years of service
+The study produced some favorable outcomes	some nice results became apparent from the study	entailment	some nice results emerged from the study
+the event left a deep impression on her memory	the event impressed itself into her memory	entailment	the event engraved itself into her memory
+	the turks got rid of the armenians in 1915	entailment	the turks erased the armenians in 1915
+When he learned that the secretary was resigning, the boss reacted strongly	the boss became outrageous when he heard of the resignation of the secretary	entailment	the boss exploded when he heard of the resignation of the secretary
+The Middle East is undergoing significant political and social changes	the middle east is changing gradually 	entailment	the middle east is fermenting
+make the child feel proud of himself/herself	make the child proud	entailment	fill the child with pride
+The night sky was illuminated by the large-scale explosion	the night sky was brightened with the massive bombardment.	entailment	the night sky flared with the massive bombardment.
+The most recent information is communicated to all command posts	the latest intelligence is spread fast to all command posts	entailment	the latest intelligence is flashed to all command posts
+The Republicans are proposing a change to the tax system	the republicans are suggesting the idea of a tax reform tentatively	entailment	the republicans are floating the idea of a tax reform
+The dancer moved gracefully and weightlessly, as if she was not touching the ground, on	the dancer moved lightly across the stage	entailment	the dancer floated across the stage
+The government allowed the ruble to be traded on international markets for several months	the government caused the ruble to fluctuate for a few months	entailment	the government floated the ruble for a few months
+The crowd exited the stadium in large numbers	the crowd went out of the stadium	entailment	the crowd flowed out of the stadium
+The sky took on a rosy hue	the sky glowed with rosy splendor	entailment	the sky flushed with rosy splendor
+the press was prevented from reporting or publishing information	the press was silenced	entailment	the press was gagged
+The moon reflected its light onto the lake's surface	the moon reflected itself from the lake's surface	entailment	the moon glared back at itself from the lake's surface
+The sun shone directly towards us	the sun shone intensively on us	entailment	the sun glared down on us
+her face was radiant after she emerged from the sauna	her face became shining when she came out of the sauna	entailment	her face glowed when she came out of the sauna
+this story will hold your attention effectively	this story will catch your attention	entailment	this story will grab you
+The conversation focused on political topics	the conversation gradually became relevant to politics	entailment	the conversation gravitated towards politics
+The raindrops ran down the ground in large quantities	the heavy rain wore the soil to the gutter.	entailment	the heavy rain guttered the soil.
+align one's objectives with one's capabilities	balance one's goals with one's abilities	entailment	harmonize one's goals with one's abilities
+These rivers originate from a mountain range located in the Himalayas	these rivers come from a mountain range in the himalayas	entailment	these rivers head from a mountain range in the himalayas
+The wheat reached maturity and was ready for harvest earlier than usual this year	the wheat grew to the head early this year	entailment	the wheat headed early this year
+he assigned him numerous tasks	he gave him a lot of work	entailment	he heaped him with work
+The oscillator adjusts its frequency around the target value	the oscillator searches for the correct frequency	entailment	the oscillator hunts about the correct frequency
+The extravagant lifestyle of the wealthy causes resentment among the impoverished	the ostentatious way of living of the rich causes the hatred of the poor	entailment	the ostentatious way of living of the rich ignites the hatred of the poor
+their language makes us think they are telling the truth	their language intends to cause us to believe them	entailment	their language inclines us to believe them
+his laughter causes others in the same room to laugh as well	his laughter affects everyone who is in the same room	entailment	his laughter infects everyone who is in the same room
+the prices of the charges were increased	the charges increased	entailment	the charges were inflated
+increase the supply of currency in circulation	increase the amount of currency	entailment	inflate the currency
+he revived the performance with fresh energy	he incorporated new life into the performance	entailment	he injected new life into the performance
+she had to manage her employment responsibilities and take care of her children simultaneously	she had to deal with her job and her children at the same time	entailment	she had to juggle her job and her children
+The gun recoiled and hit my shoulder	the gun sprang back into my shoulder.	entailment	the gun kicked back into my shoulder.
+The businessman obtained millions of dollars through fraudulent means	the businessman got millions of dollars by using a bad check	entailment	the businessman kited millions of dollars
+this could result in your arrest	this may cause you to be in jail	entailment	this may land you in jail
+establish the initial framework for a new health care program	cause to have the foundation for a new health care plan	entailment	lay the foundation for a new health care plan
+assign a task to someone	impose a responsibility on someone	entailment	lay a responsibility on someone
+the news became known to the paper without it being officially announced	the news were told to the paper	entailment	the news were leaked to the paper
+the news became known to the public despite his efforts to keep it hidden	the news became known by the public despite his secrecy	entailment	the news leaked out despite his secrecy
+This man can provide us with support	we can believe the support of this man	entailment	we can lean on this man
+According to Christian Wolmar, Britain is falling behind in establishing rural telecommunication cottages	The revolution the countryside needs : Christian Wolmar says Britain is straggling in setting up ‘ telecottages ’	entailment	The revolution the countryside needs : Christian Wolmar says Britain is lagging behind in setting up ‘ telecottages ’
+Among all the speeches I heard that day, his was the least impressive to me	His speech struck me as the lamest of the day .	entailment	His speech struck me as the feeblest of the day .
+He responded negatively and smiled at me in a condescending manner	‘ No , ’ he said helpfully , then formed a patronising smile at me .	entailment	‘ No , ’ he said helpfully , then bestowed a patronising smile on me .
+He determines the requirements of the business and suggests the solution	He finds out what the needs of the business are , and makes a plan to solve the problem .	entailment	He finds out what the needs of the business are , and prescribes the cure .
+Ellen stated, 'She would likely achieve more if she had a better comprehension of herself	‘ I think she 'd do better to understand herself , ’ Ellen said ironically.	entailment	‘ I think she 'd do better to understand herself , ’ Ellen said tartly .
+In areas outside the capital, emergency services were available, but the restrictions on emergency work were strengthened	Outside the capital , accident and emergency services were being provided in most areas , but the ban on emergency work was limited .	entailment	Outside the capital , accident and emergency services were being provided in most areas , but the ban on emergency work was tightened .
+He also mentioned one more thing, but spoke it with a bitter tone	Oh , and there 's one more thing you can be sure of , ’ he added ironically.	entailment	Oh , and there 's one more thing you can be sure of , ’ he added sourly .
+From the beginning, we disturbed them continuously and did not allow them any pauses	We worried them from the first minute and did n't give them any breathing space .	entailment	We rattled them from the first minute and did n't give them any breathing space .
+However, if the DTI has more authority than the Treasury, a new Department of Consumer	But while the DTI would override the Treasury , a new ‘ powerful Department of Consumer Affairs ’ would oppose the DTI .	entailment	But while the DTI would override the Treasury , a new ‘ powerful Department of Consumer Affairs ’ would antagonise the DTI .
+Instead, I reclined in the heather and enjoyed the slow flow of the stream and the	Instead I lay back in the heather and enjoyed the trickle of the burn and the crisp smell of peat-laden ground .	entailment	Instead I lay back in the heather and savoured the trickle of the burn and the crisp smell of peat-laden ground .
+We might not find it before they sink our ship	We could still be looking for it when they surpassed us . ’	entailment	We could still be looking for it when they blow us out of the water . ’
+It is necessary for all information to be brought up to the surface now	There must be a total retrieval now , the one good thing about which was that it might completely get rid of his dreams .	entailment	There must be a total retrieval now , the one good thing about which was that it might banish his dreams .
+No one who was present at Brewery Field would consider them capable of performing the task	No one who was at the Brewery Field ( perhaps not even the selectors ) would care their ability to do so .	entailment	No one who was at the Brewery Field ( perhaps not even the selectors ) would give twopence for their ability to do so .
+Manuals that include maps, schematic diagrams, and other materials need to be treated individually	Manuals which may contain maps , schematic diagrams and other materials need separate consideration .	entailment	Manuals which may contain maps , schematic diagrams and other materials warrant separate consideration .
+To initiate such a process does not guarantee an immediate achievement of its goal	Naturally , to start such a step is not necessarily to succeed immediately in realising it .	entailment	Naturally , to embark on such a step is not necessarily to succeed immediately in realising it .
+Mr Dobbs has worked hard, but Britain is unlikely to play a significant role in this revolution	Despite Mr Dobbs 's continuous efforts , this is another revolution which Britain is likely to be viewing from the sidelines .	entailment	Despite Mr Dobbs 's tireless efforts , this is another revolution which Britain is likely to be viewing from the sidelines .
+The pitch of his voice became lower	His voice became lower.	entailment	His voice deepened .
+Consequently, the Prime Minister's request for something from him was not reluctantly granted	Therefore the admission which the Prime Minister requested from him could hardly be said to have been grudging .	entailment	Therefore the admission which the Prime Minister wrung from him could hardly be said to have been grudging .
+Four of the missing individuals felt uncomfortable being part of the Welsh squad	Four of the absentees suffered the continuous discomfort of being among the Welsh squad .	entailment	Four of the absentees suffered the squirming discomfort of being among the Welsh squad .
+The theory of autonomy is based on a seemingly contradictory foundation	It is an oddly paradoxical foundation upon which to build a theory of autonomy .	entailment	It is a curiously paradoxical foundation upon which to build a theory of autonomy .
+Reading a book you intensely dislike is a painful experience for me	There are few things worse than being forced to read a book you hate .	entailment	There are few things worse than being bludgeoned into reading a book you hate .
+The impact is similar to a lengthy promotion for Marlboro Lights cigarettes	The effect is rather like a larger advertisement for Marlboro Lights .	entailment	The effect is rather like an extended advertisement for Marlboro Lights .
+That approach would aim to eliminate a significant element of Civil Service tradition	That approach would seek to knock out the basis of Civil Service tradition .	entailment	That approach would seek to knock out a keystone of Civil Service tradition .
+At Easter last year, I studied law and meteorology	Did law and meteorology last Easter , and now I 've finished navigation , radiotelephony , and technical — that was the most difficult . ’	entailment	Did law and meteorology last Easter , and now I 've finished navigation , radiotelephony , and technical — that was the toughest . ’
+The results are succinct and clearly defined	The results are concise and sharply etched , like the best line drawings .	entailment	The results are terse and sharply etched , like the best line drawings .
+The plane ascends with difficulty, one wing tip dipping lower than the other	The plane climbs reluctantly , one set of wings dipping cumbersomely.	entailment	The plane climbs reluctantly , one set of wings dipping drunkenly .
+Lights, in the form of torches, were placed at appropriate locations both on land and water	Torchlights , burning against the night sky and reflected in the water , had been set up wherever it was suitable .	entailment	Torchlights , flaring against the night sky and reflected in the water , had been set up wherever it was suitable .
+Grey clouds, covered in dirt and moving rapidly, were the only thing shining above the slate roof	Dirty grey clouds tumbled across the sky above the slate roof , now the only thing that shone , shining with rain .	entailment	Dirty grey clouds tumbled across the sky above the slate roof , now the only thing that shone , glazed with rain .
+When Tony was unable to help me reach orgasm, he considered inviting another woman	‘ When Tony could n't get me to have orgasm, he wanted to ask another girl over , ’ Clare said .	entailment	‘ When Tony could n't get me to climax , he wanted to ask another girl over , ’ Clare said .
+he paid for the damages caused by the accident	he absorbed the sunlight after the accident .	not_entailment	he absorbed the costs for the accident.
+The sales tax is added to the state income tax	the dirty water is absorbed into the clean water .	not_entailment	the sales tax is absorbed into the state income tax.
+Immigrants assimilated into society at a fast rate	the chemicals were quickly absorbed into sponges .	not_entailment	the immigrants were quickly absorbed into society.
+Her fascination with butterflies occupies all of her attention	her butterflies absorb her food completely .	not_entailment	her interest in butterflies absorbs her completely.
+it is necessary to follow the regulations	you must adhere the rules to the wall .	not_entailment	you must adhere to the rules.
+The individuals living in this community practice the Catholic religion	the wax of this village adhered to fingers .	not_entailment	the residents of this village adhered to catholicism.
+there is no answer to this problem	this park admits no dogs	not_entailment	this problem admits of no solution
+She expressed her views about welfare	she aired her laundry on the roof	not_entailment	she aired her opinions on welfare
+This idea will not develop into a significant or productive outcome	this budget will never amount to more than a thousand euros	not_entailment	this idea will never amount to anything
+my new car responds to the slightest pressure applied to the steering wheel	the person in my new car answers any question	not_entailment	the steering of my new car answers to the slightest touch
+I began dealing with the issue as soon as I woke up	i attacked the mailman as soon as i got out of bed	not_entailment	i attacked the problem as soon as i got out of bed
+Which horse are you betting on? (The original sentence contains a metaphorical expression "backing	which car are you backing up ?	not_entailment	which horse are you backing?
+she was confronted with numerous issues that led to her feeling disheartened	she was besieged by so many soldiers that she gave up	not_entailment	she was besieged by so many problems that she got discouraged
+When speaking into a microphone, she spoke loudly and forcefully	she tended to blast holes in the wall when shooting	not_entailment	she tended to blast when speaking into a microphone
+meteors shone brightly in the atmosphere	meteors blazed through the dry forest .	not_entailment	meteors blazed across the atmosphere.
+the difference between the two theories became less clear	the ink between the two pages blurred	not_entailment	the distinction between the two theories blurred
+don't eat your food too quickly	don't bolt from the kitchen carrying food !	not_entailment	don't bolt your food!
+The government yielded to the military demands	the government leaders bowed to the military generals	not_entailment	the government bowed to the military pressure
+he revived the old house by making improvements or repairs	he breathed onto the plants in the old house	not_entailment	he breathed new life into the old house
+The new synthetic fabric allows for the passage of air and is suitable for summer clothing	our new synthetic animal breathes and is perfect for a household pet	not_entailment	our new synthetic fabric breathes and is perfect for summer wear
+It is necessary for this rare Bordeaux wine to be exposed to air for a minimum of	this rare dog from bordeaux must be allowed to breathe	not_entailment	this rare bordeaux must be allowed to breathe for at least 2 hours
+there is a great deal of work being done in this office	this bee is buzzing with activity	not_entailment	this office is buzzing with activity
+he rang the bell for the servant to come	he buzzed when the servant came near	not_entailment	he buzzed the servant
+she won the affection of all the men	she captured all the men's hearts and stored them in glass jars	not_entailment	she captured all the men's hearts
+The judge ordered that the man be taken to a cell and kept there	the judge clapped when he sang in jail	not_entailment	the judge clapped him in jail
+They ascended the mountain using their hands and fingers	the cats clawed their way to the top of the curtain	not_entailment	they clawed their way to the top of the mountain.
+She grasped the doorknob firmly with her fingers	she clawed the door .	not_entailment	she clawed the doorknob.
+The politician used his fingers to scratch his rival	the politician clawed out his rival's eyes .	not_entailment	the politician clawed his rival.
+after a decrease in prices, sales increased	salespeople were climbing after ladders were lowered	not_entailment	sales were climbing after prices were lowered
+The path ascended to the summit of the hill	the puffin climbed all the way to the top of the hill	not_entailment	the path climbed all the way to the top of the hill
+This young man is skilled at advancing his social status	this young man knows how to climb the tall ladder	not_entailment	this young man knows how to climb the social ladder
+prices increased at a significant rate	vines climbed up the steep wall	not_entailment	prices climbed steeply
+these operations are causing the market to become congested	the drain is being clogged by these operations	not_entailment	the market is being clogged by these operations
+fear prevented clear thinking in her mind	hair clogged her pipe	not_entailment	fear clogged her mind
+my emotions influence my perspective on this matter	my personal crayons color my drawings in this case	not_entailment	my personal feelings color my judgment in this case
+The content of his lectures reflects his political beliefs	his paints color his posters	not_entailment	his political ideas color his lectures
+the rooms were interconnected	the people in the room communicated	not_entailment	the rooms communicated
+His wife's illness kept him from socializing frequently	his murdering his sick wife condemned him to a lonely existence in prison	not_entailment	his devotion to his sick wife condemned him to a lonely existence
+The fire destroyed the building by burning it completely	the firefighter consumed the sandwich	not_entailment	the fire consumed the building
+The comedian caused the crowd to laugh uncontrollably	the comedian violently convulsed on the floor	not_entailment	the comedian convulsed the crowd
+I will assist you whenever you need help	you can count my things any time	not_entailment	you can count on me to help you any time
+The old cheese was infested with live flies or their larvae	the old cat was crawling toward the door	not_entailment	the old cheese was crawling with maggots
+The speech concluded the meeting	the queen crowned the prince	not_entailment	the speech crowned the meeting
+At the top of the building, there is a weather vane	the king crowned the prince	not_entailment	a weather vane crowns the building
+His rejection of her invitation left her feeling very disappointed and sad	she was crushed by a boulder	not_entailment	she was crushed by his refusal of her invitation
+Seurat reached the highest level of development in pointillism	the mountain culminated at its peak	not_entailment	seurat culminated pointillism.
+disappointed by the refusal	they dashed by the store	not_entailment	dashed by the refusal
+He came to realize that she had deceived him	the sun dawned on him	not_entailment	it dawned on him that she had betrayed him
+the use of computers had become commonplace	the sun had dawned	not_entailment	the age of computers had dawned
+the negative evaluation of his work reduced his belief in his abilities	the needle deflated his balloon	not_entailment	the bad review of his work deflated his self-confidence
+the new measures had a negative impact on the economy	the new measures deflated the balloons	not_entailment	the new measures deflated the economy
+an excessive amount of oil led to a decrease in gas prices	the glut of oil depressed her	not_entailment	the glut of oil depressed gas prices
+The amount of rainfall had decreased, resulting in a lower water level in the reservoir	the lack of rain had depressed the farmers	not_entailment	the lack of rain had depressed the water level in the reservoir
+She created a valid reason for not going to classes that day	she designed a good shed for the class that day .	not_entailment	she designed a good excuse for not attending classes that day.
+Our home was consumed by fire	ferrets had devoured our hominy	not_entailment	fire had devoured our home
+She consumed all of his novels	she devoured his nougat	not_entailment	she devoured his novels
+This information overwhelms me	i cannot digest all this food	not_entailment	i cannot digest all this information
+The government transformed the entire law into a written code	the government workers digested the entire cake	not_entailment	the government digested the entire law into a code
+Before dinner, he consumed three martinis	he downed three trees before dinner.	not_entailment	he downed three martinis before dinner.
+Some people consume over a pound of meat during a single meal	some people can down a ton of missiles in the course of one mission.	not_entailment	some people can down a pound of meat in the course of one meal.
+The prices of stocks are gradually increasing	leaves are drifting higher on the wind	not_entailment	stock prices are drifting higher
+My son lived in California for several years before attending law school	my son drifted holes as an engineer for years in california before going to law school	not_entailment	my son drifted around for years in california before going to law school
+The stock market experienced a gradual increase in value	the leaves drifted upward on the wind	not_entailment	the stock market drifted upward
+The mother listens carefully to every word spoken by her son during his stage performance	the mother drinks in every drop of her juice on the stage	not_entailment	the mother drinks in every word of her son on the stage
+I was overwhelmed by the amount of work I had to do	i almost drowned in the lake	not_entailment	i was drowned in work
+She consumed large amounts of alcohol in an attempt to alleviate her emotional distress	she drowned her baby in the tub	not_entailment	she drowned her trouble in alcohol
+In the stage of her life called middle age, her desire for traveling lessened	time dulled her blades	not_entailment	middle age dulled her appetite for travel
+The company terminated his employment after many years of working for them	the company dumped their fax machine after many years of service	not_entailment	the company dumped him after many years of service
+The study produced some favorable outcomes	some nice roses emerged from the soil	not_entailment	some nice results emerged from the study
+the event left a deep impression on her memory	memory of the event was engraved into a plaque	not_entailment	the event engraved itself into her memory
+	the turks erased the chalkboard in 1915	not_entailment	the turks erased the armenians in 1915
+When he learned that the secretary was resigning, the boss reacted strongly	the bomb exploded right when he heard of the resignation of the secretary	not_entailment	the boss exploded when he heard of the resignation of the secretary
+The Middle East is undergoing significant political and social changes	the alcohol is fermenting	not_entailment	the middle east is fermenting
+make the child feel proud of himself/herself	fill the chalice with prune juice	not_entailment	fill the child with pride
+Each star appeared to shine more brightly	every disease seemed to flare up with new intensity	not_entailment	every star seemed to flare with new intensity.
+The night sky was illuminated by the large-scale explosion	the bomb flared during the massive bombardment.	not_entailment	the night sky flared with the massive bombardment.
+The most recent information is communicated to all command posts	the light is flashed to all command posts	not_entailment	the latest intelligence is flashed to all command posts
+The father hit him with his hand	the father flicked his hair with his hand.	not_entailment	the father flicked him with his hand.
+The Republicans are proposing a change to the tax system	the republicans are floating the boat on the water	not_entailment	the republicans are floating the idea of a tax reform
+The dancer moved gracefully and weightlessly, as if she was not touching the ground, on	the balloon floated across the stage	not_entailment	the dancer floated across the stage
+The government allowed the ruble to be traded on international markets for several months	the government floated the ship for a few months	not_entailment	the government floated the ruble for a few months
+The crowd exited the stadium in large numbers	the water flowed out of the stadium	not_entailment	the crowd flowed out of the stadium
+The sky took on a rosy hue	the face flushed with rosy splendor	not_entailment	the sky flushed with rosy splendor
+shape the young child's personality	form the young child's clay	not_entailment	form the young child's character
+the press was prevented from reporting or publishing information	the victim was gagged	not_entailment	the press was gagged
+The moon reflected its light onto the lake's surface	the man glared back at the moon from the lake	not_entailment	the moon glared back at itself from the lake's surface
+The sun shone directly towards us	the man glared down at us	not_entailment	the sun glared down on us
+her face was radiant after she emerged from the sauna	her face glowed when she saw him in the sauna	not_entailment	her face glowed when she came out of the sauna
+this story will hold your attention effectively	this crab will grab you	not_entailment	this story will grab you
+The conversation focused on political topics	the planets gravitated towards the black hole	not_entailment	the conversation gravitated towards politics
+he struggled to understand the relationship between the two things	his hand groped to find the switch	not_entailment	his mind groped to make the connection
+The raindrops ran down the ground in large quantities	the heavy bowler guttered.	not_entailment	the heavy rain guttered the soil.
+align one's objectives with one's capabilities	harmonize one's choir with one's pianist	not_entailment	harmonize one's goals with one's abilities
+These rivers originate from a mountain range located in the Himalayas	these ranchers head toward a mountain range in the himalayas	not_entailment	these rivers head from a mountain range in the himalayas
+The wheat reached maturity and was ready for harvest earlier than usual this year	the wheat headed the list this year	not_entailment	the wheat headed early this year
+he assigned him numerous tasks	he heaped praise on him	not_entailment	he heaped him with work
+The oscillator adjusts its frequency around the target value	the ombudsman hunts for the correct rabbits	not_entailment	the oscillator hunts about the correct frequency
+The extravagant lifestyle of the wealthy causes resentment among the impoverished	the ostentatious way the rich burn the woods ignites the houses of the poor	not_entailment	the ostentatious way of living of the rich ignites the hatred of the poor
+their language makes us think they are telling the truth	their lasagna inclines us on the couch	not_entailment	their language inclines us to believe them
+his laughter causes others in the same room to laugh as well	his virus infects everyone who is in the same room	not_entailment	his laughter infects everyone who is in the same room
+the prices of the charges were increased	the mattresses were inflated	not_entailment	the charges were inflated
+increase the supply of currency in circulation	inflate the balloon	not_entailment	inflate the currency
+he revived the performance with fresh energy	he injected new drugs into the performer's system	not_entailment	he injected new life into the performance
+she had to manage her employment responsibilities and take care of her children simultaneously	she had to juggle her balls and her bowling pins	not_entailment	she had to juggle her job and her children
+The gun recoiled and hit my shoulder	the mule kicked back into my shoulder.	not_entailment	the gun kicked back into my shoulder.
+The businessman obtained millions of dollars through fraudulent means	the businessman flew millions of kites	not_entailment	the businessman kited millions of dollars
+this could result in your arrest	this plane may land on top of the jail	not_entailment	this may land you in jail
+establish the initial framework for a new health care program	lay the foundation for a new health care facility	not_entailment	lay the foundation for a new health care plan
+assign a task to someone	lay a hand on someone	not_entailment	lay a responsibility on someone
+the news became known to the paper without it being officially announced	the ink leaked onto the paper	not_entailment	the news were leaked to the paper
+the news became known to the public despite his efforts to keep it hidden	the water leaked out despite his secrecy	not_entailment	the news leaked out despite his secrecy
+Westerns possess a quality of being timeless and reminiscent of ancient gladiatorial cont	Western Rome was gladiatorial.	not_entailment	‘ Westerns have a gladiatorial , timeless quality .
+The sale of the item for £did not occur immediately, as I	£45,000 was the asking price and I was not surprised that the seller , so to speak , hung the painting .	not_entailment	£45,000 was the asking price and I was not surprised that the sale , so to speak , hung fire .
+Primal Scream is not known for producing soft, introspective musical compositions	Primal Scream Not a name which would lead you to expect self-absorbed doodlings on paper .	not_entailment	Primal Scream Not a name which would lead you to expect self-absorbed acoustic doodlings .
+London's leading pair reacted to this by making September last a particularly long time	London 's leading pair , as if their interest were piqued by this , turned 30 September into the longest afternoon .	not_entailment	London 's leading pair , as if piqued by this , turned 30 September into the longest afternoon .
+The voice on the phone was noticeably enthusiastic, and it took him a minute to understand the	The voice at the other end was plainly over-excited and it took him a minute to disentangle the ball of yarn he was given .	not_entailment	The voice at the other end was plainly over-excited and it took him a minute to disentangle what he was being told .
+A fly alighted on the vacant, unblinking helmet visor, and moved along	A fly landed on the empty vizor, staring at it , and then crawled across it .	not_entailment	A fly landed on the empty , staring vizor , and crawled across it .
+The stains on the carpet have remained despite all the renaming of the place	The bugs on the carpet have survived every name change .	not_entailment	The stains on the carpet have survived every name change .
+Paula leaned against the cutting table in an attempt to appear unconcerned	Paula 's parrot perched herself on the cutting table trying to look nonchalant .	not_entailment	Paula perched herself against the cutting table trying to look nonchalant .
+Locate a Toyota Corolla or a	Find the driver of a 1980 Toyota Corolla or 1982 Nissan Sunny that has not succumbed to disease , and you can buy with confidence .	not_entailment	Find a 1980 Toyota Corolla or 1982 Nissan Sunny that has not succumbed to rust , and you can buy with confidence .
+A dog barked from one of the stone sheds, but there was no evidence of anyone being	The hollow bone of a dog came from one of the stone sheds , but there was no sign of life around the buildings .	not_entailment	The hollow barking of a dog came from one of the stone sheds , but there was no sign of life around the buildings .
+Recently, there has been an additional aspect to the situation, involving both media and politicians as well as	Recently , of course , there has been an added dimension — inflated by politicians : balloons .	not_entailment	Recently , of course , there has been an added dimension — part media-and-politician inflated , part real : drugs .
+It would also guarantee that workers have legal protections and lessen the focus on union privile	Second , it would ensure that workers enjoyed positive rights under law and reduce the emphasis of disease immunities .	not_entailment	Second , it would ensure that workers enjoyed positive rights under law and reduce the emphasis of union immunities .
+Extremely tired	Exhausted the resources .	not_entailment	Exhausted .
+They manage to convince their parents of the positive aspects of their situation, providing them with a sense of	They win their parents over with a rose-tinted vase which is decidedly reassuring .	not_entailment	They win their parents over with a rose-tinted vision of the world which is decidedly reassuring .
+Regardless of the location, the clothing choices vary — some individuals wear slacks in this place,	No matter ; only the accents change — and the pants : here , the good blue-jeans have squares .	not_entailment	No matter ; only the accents change — and the pants : here , the squares wear slacks , the good guys blue-jeans .
+Other organizations could not merge into the Central Office but could still come under its control	Other liquids could not be absorbed but could still be brought within the Central Office orbit .	not_entailment	Other organizations could not be absorbed but could still be brought within the Central Office orbit .
+Nor, if we possess a refined manner, do we intend to get intoxicated	Nor , if we are in civilised cast of characters , because we wish to become drunk .	not_entailment	Nor , if we are in civilised cast of mind , because we wish to become drunk .
+Was a tiger, moving silently, hiding in the metal jungle and potentially approaching them?	Was he even now shadowing the painting , moving soundlessly from cover to cover , like a tiger in the steel jungle ?	not_entailment	Was it even now shadowing them , moving soundlessly from cover to cover , like a tiger in the steel jungle ?
+Berry's songs express the feelings and experiences of rock'n'roll rebellion or youth	Berry made plausible emblems of rock'n'roll rebellion or , at any rate , youthful hedonism , on the jar .	not_entailment	Berry 's songs are plausible emblems of rock'n'roll rebellion or , at any rate , youthful hedonism .
+appears to be fully conscious; could have woken up	seems to be wide ; could not cross it	not_entailment	seems to be wide awake could of got up
+Rocastle performed a step-over, allowing him to bypass Thomas, who was advancing	A neat step-over by Rocastle sent Thomas hurtling in on goal but Rhodes moved sharply off his line to smother the fire .	not_entailment	A neat step-over by Rocastle sent Thomas hurtling in on goal but Rhodes moved sharply off his line to smother the shot .
+She survived for a couple of years after suffering a stroke	Well I reckon twenty objects there.	not_entailment	Well I reckon she lived er a couple of years after the stroke Gordon .
+Since the trust took over, there has been an increase in the amount of paperwork we have had	‘ We 've had more paperwork , not less , since the trust took over , ’ and Buzz said it tasted tart .	not_entailment	‘ We 've had more paperwork , not less , since the trust took over , ’ Buzz said tartly .
+You might have thought this was the police making threats or using force	You might have assumed this was the police bluffing in poker .	not_entailment	You might have assumed this was the police bluffing and bullying .
+Rescue you from carrying them	I will save you from carrying them .	not_entailment	Save you , save you carrying them .
+She dozed off while hearing soft music coming from the drawing-room	She fell asleep to the smell of smoke drifting upwards from the drawing-room .	not_entailment	She fell asleep to the sound of music drifting upwards from the drawing-room .
+You must wait for it to become less empty and allow life to enter	You have to hope that its metals will slowly dissolve and let carbon in .	not_entailment	You have to hope that its blankness will slowly dissolve and let life in .
+In industrialised societies, the elimination of hazardous wastes is a complex and challenging issue	That is one of the most intractable sheep in industrialised farms .	not_entailment	The disposal of toxic wastes is one of the most intractable problems facing industrialised societies .
+Those who disapprove or dismiss these appetites, whether identified as puritans or pess	Let puritans and pessimists damn , disapprove or dismiss these appetites for meat ; that is their loss .	not_entailment	Let puritans and pessimists damn , disapprove or dismiss these appetites ; that is their loss .
+Avon moves carefully	Avon treads on the grass warily .	not_entailment	Avon treads warily .
+Although there were numerous and diverse actions taken by Arsenal during the first minutes, they	Despite many and varied flurries of snow in the first 40 minutes , Arsenal seemed reasonably secure if not inspired .	not_entailment	Despite many and varied flurries of activity in the first 40 minutes , Arsenal seemed reasonably secure if not inspired .
+The house, made of red bricks, was not illuminated by golden light	No one bathed in the red brick house .	not_entailment	No golden light bathed the red brick of the house .
+Does the rule regarding ' serious physical injury ' go beyond the boundaries of what is considered murder ?	Does the ‘ grievous bodily harm ’ rule extend his arm too far ?	not_entailment	Does the ‘ grievous bodily harm ’ rule extend the definition of murder too far ?
+After closing the front door, Adam hesitated for a moment before stepping away	Adam closed the front door and stood there for a moment as if he could not find the wrench .	not_entailment	Adam closed the front door and stood there for a moment as if he could not wrench himself away .
+In the first attempt, all the necessary elements were successfully included	This was conveniently encapsulated in the first bottle .	not_entailment	This was conveniently encapsulated in the first try .
+However, the unions were not the only ones engaging in assuming false positions and feigning actions	But ‘ posturing and pretending in front of a mirror ’ went far beyond the unions .	not_entailment	But ‘ posturing and pretending ’ went far beyond the unions .
+Following this, the Intifada would strengthen its reputation as a productive, rather than a destructive	Second , it would consolidate the image and essence of the Intifada into one destructive force .	not_entailment	Second , it would consolidate the image and essence of the Intifada as a constructive , not a destructive , force .
+And the Spirit descended towards the earth	And the eagle , stooping earthward ,	not_entailment	And the Spirit ,  stooping  earthward ,
+Drew a curved route for it	Traced a winding lineage for it ,	not_entailment	Traced  a winding pathway for it ,
+Then a large, white cloud began to spread out	Then a snow-white sheet unfolding ,	not_entailment	Then a snow-white cloud  unfolding  ,
+Until it reached the highest point in the sky	Till it touched the top of her head ,	not_entailment	Till it  touched  the top of heaven ,
+Now it is clear that we have the greatest strength	Now you find our strongest person ,	not_entailment	Now you  find  that we are strongest ,
+only added fuel to the fire	Only made the brighter burning fire ,	not_entailment	Only  made  the fire burn brighter ,
+Ran my hands over the rough hills in a gentle manner	Touched the rugged hills with his hand ,	not_entailment	Touched  the rugged hills with smoothness ,
+His eyes were focused on their footprints	On their tracks his hands were fastened ,	not_entailment	On their tracks his eyes were  fastened  ,
+His heart beat rapidly inside his chest	And his butterfly within fluttered ,	not_entailment	And his heart within him  fluttered  ,
+Hiawatha was deeply impressed and felt great admiration	Filled with water was Hiawatha 's jar	not_entailment	Filled  with awe was Hiawatha
+Mudjekeewis experienced great happiness	Filled with water was Mudjekeewis 's jar	not_entailment	Filled  with joy was Mudjekeewis
+He experienced a memory of his younger days	Saw the sea rise up before him	not_entailment	Saw his youth  rise  up before him
+You make the past days reappear or come back	You bring back the dearly departed ,	not_entailment	You bring back the days  departed  ,
+You revive in me the intense emotions I had during my youth	You bring back my youth who are passionate ,	not_entailment	You  bring  back my youth of passion ,
+A long time has passed since that day	In the people long since departed ,	not_entailment	In the days long since  departed  ,
+Put thoughts or ideas into the minds of young men	Fill the fiery barns of young men ?	not_entailment	Fill  the fiery brains of young men ?
+When he touched him, he felt an increase in courage	At his touch he felt new leather	not_entailment	At his touch he  felt  new courage
+Until the night enveloped them completely	Till they fell in the darkness ,	not_entailment	Till the darkness  fell  around them ,
+When earth comes into contact with it, a form begins to emerge	Taking earth when it touches the shape ,	not_entailment	Taking  shape when earth it touches ,
+Until the night enveloped them completely	Till they fell in the darkness ,	not_entailment	Till the darkness  fell  around them ,
+Until the night sets in for us	Till we fall in the darkness ,	not_entailment	Till the darkness  falls  around us ,
+Concerned that his strength might weaken or give out	Fearing lest his son should fail him ,	not_entailment	Fearing lest his strength should  fail  him ,
+The landscape revolved around him	Round about him spun the spider 's web ,	not_entailment	Round about him  spun  the landscape ,
+His heart beat strongly within his chest	And his strong rabbit leaped within it ,	not_entailment	And his strong heart  leaped  within him ,
+The horizon was characterized by intense redness and widening appearance	Blazed and flared the red inferno ,	not_entailment	Blazed  and flared the red horizon ,
+The horizon was characterized by intense redness and a noticeable widening	Blazed and flared the red inferno ,	not_entailment	Blazed and  flared  the red horizon ,
+communicated to the people the information that had been kept secret before	And made corn for the people	not_entailment	And  made  known unto the people
+The pathway was directly located between them	Straight between them ran the person ,	not_entailment	Straight between them  ran  the pathway ,
+They were unable to create hostility towards each other	Could not breed two animals ,	not_entailment	Could not  breed  ill-will between them ,
+They consulted with one another	For they kept each other 's necklaces ,	not_entailment	For they  kept  each other 's counsel ,
+Now he aroused strong emotions in them	Now he stirred their soup to boiling ,	not_entailment	Now he  stirred  their souls to passion ,
+Now he managed to make them feel deep sympathy for him	Now he melted them together .	not_entailment	Now he  melted  them to pity .
+The feelings of all men were made more sensitive	All the pillows of men were softened	not_entailment	All the hearts of men were  softened
+His strength is combined with goodness	For his daughter allied to nobility .	not_entailment	For his strength  allied  to goodness .
+Rose did not respond angrily to 's statement	Rose , but made no one angry ,	not_entailment	Rose , but  made  no angry answer ;
+A small stream guided them further	Where a women led them onward ,	not_entailment	Where a brooklet  led  them onward ,
+They did not respond to the challenge posed by them	For the challenge made no cake ,	not_entailment	To their challenge  made  no answer ,
+The season of summer is approaching	Grandma is coming for the summer ,	not_entailment	For the Summer-time is  coming  ,
+Heard a loud, fearful noise	Went a snake , a cry of horror ,	not_entailment	Went  a sound , a cry of horror ,
+His thoughts functioned like paddles for him	For his thoughts as waiters served him ,	not_entailment	For his thoughts as paddles  served  him ,
+His desires influenced his actions	And his waiters served him ,	not_entailment	And his wishes  served  to guide him ;
+His desires influenced his actions	And his waiters guided him ;	not_entailment	And his wishes served to  guide  him ;
+Until the waves reached the rib cage	Till the waves washed away the rib-bones ,	not_entailment	Till the waves  washed  through the rib-bones ,
+With their breath, they produced a strong heat	With their fiery breath made charcoal	not_entailment	With their fiery breath  made  answer :
+Until the moon was directly overhead and shone down on him	Till the lion stared at him	not_entailment	Till the level moon  stared  at him
+He dealt blows to it, but it was not harmed	Harmless fell the trees he chopped down	not_entailment	Harmless  fell  the blows he dealt it
+The harmless war-club fell down heavily	Harmless fell the heavy box	not_entailment	Harmless  fell  the heavy war-club ;
+From which branches hang mosses	From whose branches trailed the jaguar ,	not_entailment	From whose branches  trailed  the mosses ,
+Him, who caused the high fever in	Him who sent the fiery arrows ,	not_entailment	Him , who  sent  the fiery fever ,
+His heartbeat was faster than his walking pace	And he outran his opponents ;	not_entailment	And his heart  outran  his footsteps ;
+Then, he added his comments, articulating each word deliberately	And then added the numbers slowly ,	not_entailment	And then  added  , speaking slowly ,
+responded seriously to 's question	And made a vow very gravely :	not_entailment	And  made  answer very gravely :
+Express your feelings openly, Minnehaha	Let your friend speak , Minnehaha !	not_entailment	Let your heart  speak  , Minnehaha ! "
+He slowed down his speed	Though his watch he checked and slackened	not_entailment	Though his pace he  checked  and slackened
+He slowed down his speed	Though his rope he checked and slackened	not_entailment	Though his pace he checked and  slackened
+We wish that the time could move faster	That the thought might pass more gayly ,	not_entailment	That the time might  pass  more gayly ,
+I wish the time would pass more quickly	That the thought may pass more gayly ,	not_entailment	That the time may  pass  more gayly ,
+I wish the time would pass more quickly	That the thought may pass more gayly ,	not_entailment	That the time may  pass  more gayly ,
+Just like springs that come into contact with sunlight,	As the Springs to meet the neighbors ,	not_entailment	As the springs to  meet  the sunshine ,
+When the clouds are directly overhead, casting their shadows on it	When the clouds drop rain on it !	not_entailment	When the clouds  drop  shadows on it !
+My heart feels lighter after being troubled	Then my troubled room is brightened ,	not_entailment	Then my troubled heart is  brightened  ,
+They gave him applause that he felt envious of	Jealous of the apples they gave him ,	not_entailment	Jealous of the applause they  gave  him ,
+Would you please believe what he says?	Would you only give him gum ,	not_entailment	Would you only  give  him credence ,
+I wish the time would pass more quickly	That the thought may advance more gayly ,	not_entailment	That the time may  pass  more gayly ,
+All the water turned completely red	All the water flushed the crimson away !	not_entailment	All the water  flushed  with crimson !
+They perceived an increase in it	And they felt the flag rising , rising	not_entailment	And they  felt  it rising , rising ,
+They sensed an increase in it	And they felt the carpet rising , rising	not_entailment	And they felt it  rising  , rising ,
+I was unable to perceive the intensity of your emotions	Could not see your passionfruit	not_entailment	Could not  see  your heart of passion ,
+After those days that brought happiness,	Of the happy children that followed	not_entailment	Of the happy days that  followed  ,
+Clad in darkness	Robed with wool as a garment	not_entailment	Robed  with darkness as a garment .
+Until the trees around us were shaking with the sound of genuine laughter	Till the tree tops shook from wind	not_entailment	Till the tree-tops  shook  with laughter ,
+Once the night came without making any noise	When the noiseless owl descended	not_entailment	When the noiseless night  descended
+Guskewau was enveloped by the darkness	Guskewau , the ribbon , wrapped her	not_entailment	Guskewau , the darkness ,  wrapped  her
+Until the cornfields were filled with actual laughter from people	Till the phones rang	not_entailment	Till the cornfields  rang  with laughter ,
+And the melody that this shape inspired generated sentence: And the sound that was produced by observing	And the song this child suggested	not_entailment	And the song this shape  suggested
+I have such a powerful influence over you	Such the net I cast upon you	not_entailment	Such the spell I  cast  upon you ,
+Made the entire earth completely quiet	Covered all the earth with cement	not_entailment	Covered  all the earth with silence ,
+Spring arrived, and all the forest began to show signs of new growth	Came the sheep , and all the forest	not_entailment	Came  the Spring , and all the forest
+Clouds are being removed from the sky	As the dirt is swept from the floor	not_entailment	As the clouds are  swept  from heaven ,
+As ice is removed from rivers	As the ice is swept from the floor	not_entailment	As the ice is  swept  from rivers ,
+The heavens were located much higher than him	Far above him swam the dolphins	not_entailment	Far above him  swam  the heavens ,
+He will not be harmed by my desire for retribution	That my letter shall not reach him !	not_entailment	That my vengeance shall not  reach  him ! "
+He answered in a cautious manner	With reserve he thus made pie	not_entailment	With reserve he thus  made  answer :
+Until it had gathered itself, or Until it had collected itself	Till it drew itself a portrait	not_entailment	Till it  drew  itself together ,
+Until it assumed the shape and characteristics	Till it took the form and signed it	not_entailment	Till it  took  the form and features
+Using a large club, he struck the doorways	With his anger smote the kings	not_entailment	With his war-club  smote  the doorways ,
+Kwasind felt a strong desire to sleep	Fell a doorknob on Kwasind	not_entailment	Fell  a drowsiness on Kwasind ;
+The winter storm was very windy and noisy	Raged and roared the lion	not_entailment	Raged and  roared  the wintry tempest ,
+Disasters do not occur one at a time	So ducks come not singly	not_entailment	So disasters  come  not singly ;
+Their features did not change at all	Not a plane came o'er their heads	not_entailment	Not a change  came  o'er their features ;
+We have tested or examined you	We have put you in the bedroom	not_entailment	We have  put  you to the trial ,
+Collapsed and was unable to stand up due to weakness	Fell and could not rise from the ground	not_entailment	Fell , and could not  rise  from weakness ,
+She covered her face without responding	Hid her face, but made no shadow	not_entailment	Hid her face , but  made  no answer ;
+Based on their facial expressions towards her	At the stones they cast upon the lake	not_entailment	At the looks they  cast  upon her ,
+We can spend the night in each other's company	Let us pass the test together	not_entailment	Let us  pass  the night together ,
+All meadows have flowers growing in them and they sway gently in the wind	All the fans wave with blossoms	not_entailment	All the meadows  wave  with blossoms ,
+As they talked, the night passed	While they spake , the bird departed	not_entailment	While they spake , the night  departed  :
+Spring arrived, bringing with it its beauty	Came the peacock with all its splendor	not_entailment	Came  the Spring with all its splendor ,
+Received sunlight on his face	Fell the moonlight on his features	not_entailment	Fell  the sunshine on his features ,
+Experienced the evening with its decreasing light and lower temperatures	Fell the evening 's cool acrobat	not_entailment	Fell  the evening 's dusk and coolness ,
+He is troubled by him; he casts malevolent glances at him	Torments him ; round he throws his dirty laundry	not_entailment	Torments him ; round he  throws  his baleful eyes
+Rest and hope are perpetually absent	And rats can never dwell , hope never comes	not_entailment	And rest can never  dwell  , hope never comes
+Rest never settles, hope never arrives	And rest can never dwell , she never comes	not_entailment	And rest can never dwell , hope never  comes
+I began dealing with the issue as soon as I woke up	i attacked the one giving us problem as soon as i got out of bed	not_entailment	i attacked the problem as soon as i got out of bed
+Which horse are you betting on? (The original sentence contains a metaphorical expression "backing	which horse are you riding on its back?	not_entailment	which horse are you backing?
+When speaking into a microphone, she spoke loudly and forcefully	she tended to produce explosive sounds when speaking into a microphone	not_entailment	she tended to blast when speaking into a microphone
+don't eat your food too quickly	don't bolt to your food!	not_entailment	don't bolt your food!
+The judge ordered that the man be taken to a cell and kept there	the judge clapped him into the jail 	not_entailment	the judge clapped him in jail
+The politician used his fingers to scratch his rival	the politician clawed the face of his rival.	not_entailment	the politician clawed his rival.
+This young man is skilled at advancing his social status	this young man knows how to climb a ladder	not_entailment	this young man knows how to climb the social ladder
+fear prevented clear thinking in her mind	fear clogged her heart	not_entailment	fear clogged her mind
+She consumed all of his novels	she devoured his novels for some reason and choked	not_entailment	she devoured his novels
+My son lived in California for several years before attending law school	my son drifted around the lakes in california for years before going to law school	not_entailment	my son drifted around for years in california before going to law school
+The mother listens carefully to every word spoken by her son during his stage performance	the mother drinks because of every word of her son on the stage	not_entailment	the mother drinks in every word of her son on the stage
+I was overwhelmed by the amount of work I had to do	i was drowned because of my work	not_entailment	i was drowned in work
+She consumed large amounts of alcohol in an attempt to alleviate her emotional distress	she was drowned because of her trouble in alcohol	not_entailment	she drowned her trouble in alcohol
+When he learned that the secretary was resigning, the boss reacted strongly	the boss bombed himself when he heard of the resignation of the secretary	not_entailment	the boss exploded when he heard of the resignation of the secretary
+Each star appeared to shine more brightly	every star seemed to flare with new clothes.	not_entailment	every star seemed to flare with new intensity.
+The dancer moved gracefully and weightlessly, as if she was not touching the ground, on	the dancer floated across the stage with a cart	not_entailment	the dancer floated across the stage
+The government allowed the ruble to be traded on international markets for several months	the government floated the ruble in a pond for a few months	not_entailment	the government floated the ruble for a few months
+he assigned him numerous tasks	he heaped him with documents from work	not_entailment	he heaped him with work
+The businessman obtained millions of dollars through fraudulent means	the businessman flew a kite made of millions of dollars	not_entailment	the businessman kited millions of dollars
+This man can provide us with support	we can lean on this man's back	not_entailment	we can lean on this man
+He responded negatively and smiled at me in a condescending manner	‘ No , ’ he said helpfully , then bestowed a cake with a patronising smile to me .	not_entailment	‘ No , ’ he said helpfully , then bestowed a patronising smile on me .
+He determines the requirements of the business and suggests the solution	He finds out what the needs of the business are , and prescribes the cure for every patient.	not_entailment	He finds out what the needs of the business are , and prescribes the cure .
+Ellen stated, 'She would likely achieve more if she had a better comprehension of herself	‘ I think she 'd do better to understand herself , ’ Ellen said with a tart in her mouth.	not_entailment	‘ I think she 'd do better to understand herself , ’ Ellen said tartly .
+He also mentioned one more thing, but spoke it with a bitter tone	Oh , and there 's one more thing you can be sure of , ’ he added with a sour smell in his mouth .	not_entailment	Oh , and there 's one more thing you can be sure of , ’ he added sourly .
+From the beginning, we disturbed them continuously and did not allow them any pauses	We gave them rattling sounds from the first minute and did n't give them any breathing space .	not_entailment	We rattled them from the first minute and did n't give them any breathing space .
+We might not find it before they sink our ship	We could still be looking for it when they bomb us out of the water . ’	not_entailment	We could still be looking for it when they blow us out of the water . ’
+No one who was present at Brewery Field would consider them capable of performing the task	No one who was at the Brewery Field ( perhaps not even the selectors ) would bet twopence for their ability to do so .	not_entailment	No one who was at the Brewery Field ( perhaps not even the selectors ) would give twopence for their ability to do so .
+Four of the missing individuals felt uncomfortable being part of the Welsh squad	Four of the absentees suffered the discomfort caused by the squirms of the Welsh squad .	not_entailment	Four of the absentees suffered the squirming discomfort of being among the Welsh squad .
+Reading a book you intensely dislike is a painful experience for me	There are few things worse than being bludgeoned with a book you hate .	not_entailment	There are few things worse than being bludgeoned into reading a book you hate .

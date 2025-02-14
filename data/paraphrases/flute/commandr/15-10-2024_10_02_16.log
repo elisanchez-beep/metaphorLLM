@@ -1,0 +1,753 @@
+INFO:__main__:Model used: command-r-plus-08-2024
+INFO:__main__:Metaphor location: h
+INFO:__main__:Device in use: cuda
+INFO:__main__:Dataset loaded from: /gaueko0/users/esanchez/metaphor_LLMs/data/corpora/interpretation/flute/testgolddata/metaphor_test_binary_labels.tsv
+INFO:__main__:Loaded samples: 248
+INFO:__main__:Sent: It is sad to observe the fruits of ignorance., prev: None, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: It is sad to observe the fruits of ignorance. Paraphrase: 
+Response: It is sad to see the results of not knowing.
+INFO:__main__:Sent: It is sad to observe the fruits of ignorance., prev: It is sad to observe the fruits of ignorance., False
+INFO:__main__:Previous sent added: It is sad to see the results of not knowing.
+INFO:__main__:Sent: This young man knows how to climb the social ladder., prev: It is sad to observe the fruits of ignorance., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: This young man knows how to climb the social ladder. Paraphrase: 
+Response: This young man knows how to increase his social status.
+INFO:__main__:Sent: This young man knows how to climb the social ladder., prev: This young man knows how to climb the social ladder., False
+INFO:__main__:Previous sent added: This young man knows how to increase his social status.
+INFO:__main__:Sent: The guy was a floating whale in the small swimming pool., prev: This young man knows how to climb the social ladder., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The guy was a floating whale in the small swimming pool. Paraphrase: 
+Response: The man was a large person who was swimming in a small pool.
+INFO:__main__:Sent: The guy was a floating whale in the small swimming pool., prev: The guy was a floating whale in the small swimming pool., False
+INFO:__main__:Previous sent added: The man was a large person who was swimming in a small pool.
+INFO:__main__:Sent: Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ?, prev: The guy was a floating whale in the small swimming pool., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ? Paraphrase: 
+Response: Was it even now following them, moving without making any noise from one hiding place to another, like a tiger in the city?
+INFO:__main__:Sent: Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ?, prev: Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ?, False
+INFO:__main__:Previous sent added: Was it even now following them, moving without making any noise from one hiding place to another, like a tiger in the city?
+INFO:__main__:Sent: I attacked the problem as soon as I got out of bed., prev: Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ?, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I attacked the problem as soon as I got out of bed. Paraphrase: 
+Response: I started working on the problem immediately after I woke up and left my bed.
+INFO:__main__:Sent: I attacked the problem as soon as I got out of bed., prev: I attacked the problem as soon as I got out of bed., False
+INFO:__main__:Previous sent added: I started working on the problem immediately after I woke up and left my bed.
+INFO:__main__:Sent: Trembling for ire, and stricken pale for rage., prev: I attacked the problem as soon as I got out of bed., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Trembling for ire, and stricken pale for rage. Paraphrase: 
+Response: Shaking with anger, and turning pale with fury.
+INFO:__main__:Sent: Trembling for ire, and stricken pale for rage., prev: Trembling for ire, and stricken pale for rage., False
+INFO:__main__:Previous sent added: Shaking with anger, and turning pale with fury.
+INFO:__main__:Sent: Marcus enjoyed the book., prev: Trembling for ire, and stricken pale for rage., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Marcus enjoyed the book. Paraphrase: 
+Response: Marcus liked reading the book.
+INFO:__main__:Sent: Marcus enjoyed the book., prev: Marcus enjoyed the book., False
+INFO:__main__:Previous sent added: Marcus liked reading the book.
+INFO:__main__:Sent: My love is a summer day., prev: Marcus enjoyed the book., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: My love is a summer day. Paraphrase: 
+Response: My feelings of affection are like the warmth and brightness of a summer day.
+INFO:__main__:Sent: My love is a summer day., prev: My love is a summer day., False
+INFO:__main__:Previous sent added: My feelings of affection are like the warmth and brightness of a summer day.
+INFO:__main__:Sent: He was interwoven in a laughing fit., prev: My love is a summer day., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He was interwoven in a laughing fit. Paraphrase: 
+Response: He was laughing uncontrollably.
+INFO:__main__:Sent: He was interwoven in a laughing fit., prev: He was interwoven in a laughing fit., False
+INFO:__main__:Previous sent added: He was laughing uncontrollably.
+INFO:__main__:Sent: I was drowned in work., prev: He was interwoven in a laughing fit., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I was drowned in work. Paraphrase: 
+Response: I had a lot of work to do.
+INFO:__main__:Sent: I was drowned in work., prev: I was drowned in work., False
+INFO:__main__:Previous sent added: I had a lot of work to do.
+INFO:__main__:Sent: I never won an argument with him., prev: I was drowned in work., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I never won an argument with him. Paraphrase: 
+Response: I have never been able to convince him of my point of view.
+INFO:__main__:Sent: I never won an argument with him., prev: I never won an argument with him., False
+INFO:__main__:Previous sent added: I have never been able to convince him of my point of view.
+INFO:__main__:Sent: Only made the fire burn brighter ,, prev: I never won an argument with him., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Only made the fire burn brighter , Paraphrase: 
+Response: The flames became more intense.
+INFO:__main__:Sent: Only made he fire burn brighter ,, prev: Only made the fire burn brighter ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Only made he fire burn brighter , Paraphrase: 
+Response: He caused the fire to increase in intensity.
+INFO:__main__:Sent: All of this stirred an uncontrollable excitement in her., prev: Only made he fire burn brighter ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: All of this stirred an uncontrollable excitement in her. Paraphrase: 
+Response: She felt an intense and overwhelming excitement.
+INFO:__main__:Sent: All of this stirred an uncontrollable excitement in her., prev: All of this stirred an uncontrollable excitement in her., False
+INFO:__main__:Previous sent added: She felt an intense and overwhelming excitement.
+INFO:__main__:Sent: The stains on the carpet have survived every name change ., prev: All of this stirred an uncontrollable excitement in her., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The stains on the carpet have survived every name change . Paraphrase: 
+Response: The marks on the floor covering have remained after each alteration of the label.
+INFO:__main__:Sent: The stains on the carpet have survived every name change ., prev: The stains on the carpet have survived every name change ., False
+INFO:__main__:Previous sent added: The marks on the floor covering have remained after each alteration of the label.
+INFO:__main__:Sent: He is the apple of my eye., prev: The stains on the carpet have survived every name change ., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He is the apple of my eye. Paraphrase: 
+Response: He is very important to me.
+INFO:__main__:Sent: He is the apple of my eye., prev: He is the apple of my eye., False
+INFO:__main__:Previous sent added: He is very important to me.
+INFO:__main__:Sent: The dancer glided across the stage., prev: He is the apple of my eye., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The dancer glided across the stage. Paraphrase: 
+Response: The dancer moved smoothly and effortlessly across the stage.
+INFO:__main__:Sent: The dancer glided across the stage., prev: The dancer glided across the stage., False
+INFO:__main__:Previous sent added: The dancer moved smoothly and effortlessly across the stage.
+INFO:__main__:Sent: A weather vane crowns the building., prev: The dancer glided across the stage., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: A weather vane crowns the building. Paraphrase: 
+Response: A metal arrow-shaped device that indicates wind direction is located at the highest point of the building.
+INFO:__main__:Sent: A weather vane crowns the building., prev: A weather vane crowns the building., False
+INFO:__main__:Previous sent added: A metal arrow-shaped device that indicates wind direction is located at the highest point of the building.
+INFO:__main__:Sent: When it rains in Tokyo the city becomes a sea of umbrellas., prev: A weather vane crowns the building., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: When it rains in Tokyo the city becomes a sea of umbrellas. Paraphrase: 
+Response: When it rains in Tokyo, many people use umbrellas, and the city is filled with them.
+INFO:__main__:Sent: When it rains in Tokyo the city becomes a sea of umbrellas., prev: When it rains in Tokyo the city becomes a sea of umbrellas., False
+INFO:__main__:Previous sent added: When it rains in Tokyo, many people use umbrellas, and the city is filled with them.
+INFO:__main__:Sent: She was lost in her thoughts and memories., prev: When it rains in Tokyo the city becomes a sea of umbrellas., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She was lost in her thoughts and memories. Paraphrase: 
+Response: She was so focused on her thoughts and memories that she was unaware of her surroundings.
+INFO:__main__:Sent: She was lost in her thoughts and memories., prev: She was lost in her thoughts and memories., False
+INFO:__main__:Previous sent added: She was so focused on her thoughts and memories that she was unaware of her surroundings.
+INFO:__main__:Sent: Their faces were blanketed with sadness., prev: She was lost in her thoughts and memories., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Their faces were blanketed with sadness. Paraphrase: 
+Response: Their faces were covered with sadness.
+INFO:__main__:Sent: Their faces were blanketed with sadness., prev: Their faces were blanketed with sadness., False
+INFO:__main__:Previous sent added: Their faces were covered with sadness.
+INFO:__main__:Sent: The play is going to pummel a few people., prev: Their faces were blanketed with sadness., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The play is going to pummel a few people. Paraphrase: 
+Response: The play will be very impactful for some people.
+INFO:__main__:Sent: The play is going to pummel a few people., prev: The play is going to pummel a few people., False
+INFO:__main__:Previous sent added: The play will be very impactful for some people.
+INFO:__main__:Sent: His condescending attitude made my blood boil., prev: The play is going to pummel a few people., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: His condescending attitude made my blood boil. Paraphrase: 
+Response: His arrogant and patronizing behavior caused me to feel extremely angry.
+INFO:__main__:Sent: His condescending attitude made my blood boil., prev: His condescending attitude made my blood boil., False
+INFO:__main__:Previous sent added: His arrogant and patronizing behavior caused me to feel extremely angry.
+INFO:__main__:Sent: We could still be looking for it when they blow us out of the water., prev: His condescending attitude made my blood boil., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: We could still be looking for it when they blow us out of the water. Paraphrase: 
+Response: We could still be searching for it when they surprise us with an unexpected attack.
+INFO:__main__:Sent: We could still be looking for it when they blow us out of the water., prev: We could still be looking for it when they blow us out of the water., False
+INFO:__main__:Previous sent added: We could still be searching for it when they surprise us with an unexpected attack.
+INFO:__main__:Sent: An ancient anger exploded in his heart., prev: We could still be looking for it when they blow us out of the water., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: An ancient anger exploded in his heart. Paraphrase: 
+Response: His heart experienced a sudden and intense feeling of anger.
+INFO:__main__:Sent: An ancient anger exploded in his heart., prev: An ancient anger exploded in his heart., False
+INFO:__main__:Previous sent added: His heart experienced a sudden and intense feeling of anger.
+INFO:__main__:Sent: The critics hyped this broadway production., prev: An ancient anger exploded in his heart., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The critics hyped this broadway production. Paraphrase: 
+Response: The critics praised and promoted this Broadway production.
+INFO:__main__:Sent: The critics hyped this broadway production., prev: The critics hyped this broadway production., False
+INFO:__main__:Previous sent added: The critics praised and promoted this Broadway production.
+INFO:__main__:Sent: Josh played Bach., prev: The critics hyped this broadway production., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Josh played Bach. Paraphrase: 
+Response: Josh performed a piece of music composed by Bach.
+INFO:__main__:Sent: Josh played Bach., prev: Josh played Bach., False
+INFO:__main__:Previous sent added: Josh performed a piece of music composed by Bach.
+INFO:__main__:Sent: The crowd was a roaring river., prev: Josh played Bach., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The crowd was a roaring river. Paraphrase: 
+Response: The crowd was loud and flowing like a river.
+INFO:__main__:Sent: The crowd was a roaring river., prev: The crowd was a roaring river., False
+INFO:__main__:Previous sent added: The crowd was loud and flowing like a river.
+INFO:__main__:Sent: He pleaded for her forgiveness but Janet was a statue., prev: The crowd was a roaring river., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He pleaded for her forgiveness but Janet was a statue. Paraphrase: 
+Response: He begged for her forgiveness but Janet was unresponsive.
+INFO:__main__:Sent: He pleaded for her forgiveness but Janet was a statue., prev: He pleaded for her forgiveness but Janet was a statue., False
+INFO:__main__:Previous sent added: He begged for her forgiveness but Janet was unresponsive.
+INFO:__main__:Sent: Nobody cares about the roots of modern civilization., prev: He pleaded for her forgiveness but Janet was a statue., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Nobody cares about the roots of modern civilization. Paraphrase: 
+Response: No one is concerned about the origins of modern civilization.
+INFO:__main__:Sent: Nobody cares about the roots of modern civilization., prev: Nobody cares about the roots of modern civilization., False
+INFO:__main__:Previous sent added: No one is concerned about the origins of modern civilization.
+INFO:__main__:Sent: Now he melted them to pity., prev: Nobody cares about the roots of modern civilization., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Now he melted them to pity. Paraphrase: 
+Response: Now he made them feel sorry.
+INFO:__main__:Sent: Now he melted them to pity., prev: Now he melted them to pity., False
+INFO:__main__:Previous sent added: Now he made them feel sorry.
+INFO:__main__:Sent: Till the darkness falls around us ,, prev: Now he melted them to pity., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Till the darkness falls around us , Paraphrase: 
+Response: Until the night arrives.
+INFO:__main__:Sent: Till the darkness falls around us ,, prev: Till the darkness falls around us ,, False
+INFO:__main__:Previous sent added: Until the night arrives.
+INFO:__main__:Sent: She had a bright idea., prev: Till the darkness falls around us ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She had a bright idea. Paraphrase: 
+Response: She thought of something intelligent.
+INFO:__main__:Sent: She had a bright idea., prev: She had a bright idea., False
+INFO:__main__:Previous sent added: She thought of something intelligent.
+INFO:__main__:Sent: The computer in the classroom was a dinosaur., prev: She had a bright idea., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The computer in the classroom was a dinosaur. Paraphrase: 
+Response: The computer in the classroom was outdated and old.
+INFO:__main__:Sent: The computer in the classroom was a dinosaur., prev: The computer in the classroom was a dinosaur., False
+INFO:__main__:Previous sent added: The computer in the classroom was outdated and old.
+INFO:__main__:Sent: No,he said helpfully, then bestowed a patronising smile on me ., prev: The computer in the classroom was a dinosaur., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: No,he said helpfully, then bestowed a patronising smile on me . Paraphrase: 
+Response: No, he said, then smiled at me in a patronising way.
+INFO:__main__:Sent: No, he said helpfully, then bestowed a patronising smile on me ., prev: No,he said helpfully, then bestowed a patronising smile on me ., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: No, he said helpfully, then bestowed a patronising smile on me . Paraphrase: 
+Response: No, he said, then smiled at me.
+INFO:__main__:Sent: He absorbed the knowledge or beliefs of his tribe., prev: No, he said helpfully, then bestowed a patronising smile on me ., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He absorbed the knowledge or beliefs of his tribe. Paraphrase: 
+Response: He learned the knowledge and beliefs of his tribe.
+INFO:__main__:Sent: He absorbed the knowledge or beliefs of his tribe., prev: He absorbed the knowledge or beliefs of his tribe., False
+INFO:__main__:Previous sent added: He learned the knowledge and beliefs of his tribe.
+INFO:__main__:Sent: His friend was very tall and he looked like a chess piece beside him., prev: He absorbed the knowledge or beliefs of his tribe., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: His friend was very tall and he looked like a chess piece beside him. Paraphrase: 
+Response: His friend was very tall and he was much shorter than him.
+INFO:__main__:Sent: His friend was very tall and he looked like a chess piece beside him., prev: His friend was very tall and he looked like a chess piece beside him., False
+INFO:__main__:Previous sent added: His friend was very tall and he was much shorter than him.
+INFO:__main__:Sent: Ask table 12 whether he wants to swap., prev: His friend was very tall and he looked like a chess piece beside him., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Ask table 12 whether he wants to swap. Paraphrase: 
+Response: Ask the people sitting at table 12 whether they want to exchange their table for another one.
+INFO:__main__:Sent: Ask table 12 whether he wants to swap., prev: Ask table 12 whether he wants to swap., False
+INFO:__main__:Previous sent added: Ask the people sitting at table 12 whether they want to exchange their table for another one.
+INFO:__main__:Sent: She captured all the men's hearts., prev: Ask table 12 whether he wants to swap., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She captured all the men's hearts. Paraphrase: 
+Response: She made all the men fall in love with her.
+INFO:__main__:Sent: She captured all the men's hearts., prev: She captured all the men's hearts., False
+INFO:__main__:Previous sent added: She made all the men fall in love with her.
+INFO:__main__:Sent: It dawned to him that she had betrayed him., prev: She captured all the men's hearts., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: It dawned to him that she had betrayed him. Paraphrase: 
+Response: He realized that she had been unfaithful to him.
+INFO:__main__:Sent: It dawned to him that she had betrayed him., prev: It dawned to him that she had betrayed him., False
+INFO:__main__:Previous sent added: He realized that she had been unfaithful to him.
+INFO:__main__:Sent: She petitioned the witnesses for information., prev: It dawned to him that she had betrayed him., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She petitioned the witnesses for information. Paraphrase: 
+Response: She asked the witnesses for information.
+INFO:__main__:Sent: She petitioned the witnesses for information., prev: She petitioned the witnesses for information., False
+INFO:__main__:Previous sent added: She asked the witnesses for information.
+INFO:__main__:Sent: Seurat culminated pointillism., prev: She petitioned the witnesses for information., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Seurat culminated pointillism. Paraphrase: 
+Response: Seurat perfected the technique of pointillism.
+INFO:__main__:Sent: Seurat culminated pointillism., prev: Seurat culminated pointillism., False
+INFO:__main__:Previous sent added: Seurat perfected the technique of pointillism.
+INFO:__main__:Sent: Water cascaded all over the floor., prev: Seurat culminated pointillism., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Water cascaded all over the floor. Paraphrase: 
+Response: Water flowed across the floor.
+INFO:__main__:Sent: Water cascaded all over the floor., prev: Water cascaded all over the floor., False
+INFO:__main__:Previous sent added: Water flowed across the floor.
+INFO:__main__:Sent: Now you can fade off to sleep., prev: Water cascaded all over the floor., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Now you can fade off to sleep. Paraphrase: 
+Response: Now you can gradually enter a state of unconsciousness.
+INFO:__main__:Sent: Now you can fade off to sleep., prev: Now you can fade off to sleep., False
+INFO:__main__:Previous sent added: Now you can gradually enter a state of unconsciousness.
+INFO:__main__:Sent: She arrived at the grocery store with an army of children., prev: Now you can fade off to sleep., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She arrived at the grocery store with an army of children. Paraphrase: 
+Response: She arrived at the grocery store with a large group of children.
+INFO:__main__:Sent: She arrived at the grocery store with an army of children., prev: She arrived at the grocery store with an army of children., False
+INFO:__main__:Previous sent added: She arrived at the grocery store with a large group of children.
+INFO:__main__:Sent: Rohan bought a Picasso., prev: She arrived at the grocery store with an army of children., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Rohan bought a Picasso. Paraphrase: 
+Response: Rohan purchased a painting created by the artist Pablo Picasso.
+INFO:__main__:Sent: Rohan bought a Picasso., prev: Rohan bought a Picasso., False
+INFO:__main__:Previous sent added: Rohan purchased a painting created by the artist Pablo Picasso.
+INFO:__main__:Sent: Nor, if we are in civilised cast of mind, because we wish to become drunk ., prev: Rohan bought a Picasso., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Nor, if we are in civilised cast of mind, because we wish to become drunk . Paraphrase: 
+Response: Nor, if we are in a state of mind that is considered civilised, because we want to consume alcohol to the point of intoxication.
+INFO:__main__:Sent: Nor, if we are in civilised cast of mind, because we wish to become drunk ., prev: Nor, if we are in civilised cast of mind, because we wish to become drunk ., False
+INFO:__main__:Previous sent added: Nor, if we are in a state of mind that is considered civilised, because we want to consume alcohol to the point of intoxication.
+INFO:__main__:Sent: The republican convention was a horror show., prev: Nor, if we are in civilised cast of mind, because we wish to become drunk ., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The republican convention was a horror show. Paraphrase: 
+Response: The republican convention was a frightening and unpleasant event.
+INFO:__main__:Sent: The republican convention was a horror show., prev: The republican convention was a horror show., False
+INFO:__main__:Previous sent added: The republican convention was a frightening and unpleasant event.
+INFO:__main__:Sent: Water seeped out of the can into the backpack., prev: The republican convention was a horror show., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Water seeped out of the can into the backpack. Paraphrase: 
+Response: The liquid escaped from the container and entered the bag.
+INFO:__main__:Sent: Water seeped out of the can into the backpack., prev: Water seeped out of the can into the backpack., False
+INFO:__main__:Previous sent added: The liquid escaped from the container and entered the bag.
+INFO:__main__:Sent: When I met the boss he seemed bitter about the whole story., prev: Water seeped out of the can into the backpack., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: When I met the boss he seemed bitter about the whole story. Paraphrase: 
+Response: When I met the boss he seemed angry about the whole story.
+INFO:__main__:Sent: When I met the boss he seemed bitter about the whole story., prev: When I met the boss he seemed bitter about the whole story., False
+INFO:__main__:Previous sent added: When I met the boss he seemed angry about the whole story.
+INFO:__main__:Sent: Time flies., prev: When I met the boss he seemed bitter about the whole story., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Time flies. Paraphrase: 
+Response: The duration of time passes quickly.
+INFO:__main__:Sent: Time flies., prev: Time flies., False
+INFO:__main__:Previous sent added: The duration of time passes quickly.
+INFO:__main__:Sent: The sun glared down on us., prev: Time flies., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The sun glared down on us. Paraphrase: 
+Response: The sun emitted bright light in our direction.
+INFO:__main__:Sent: The sun glared down on us., prev: The sun glared down on us., False
+INFO:__main__:Previous sent added: The sun emitted bright light in our direction.
+INFO:__main__:Sent: The work would have been easier if I had an extra pair of hands., prev: The sun glared down on us., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The work would have been easier if I had an extra pair of hands. Paraphrase: 
+Response: The work would have been easier if I had more people to help me.
+INFO:__main__:Sent: The work would have been easier if I had an extra pair of hands., prev: The work would have been easier if I had an extra pair of hands., False
+INFO:__main__:Previous sent added: The work would have been easier if I had more people to help me.
+INFO:__main__:Sent: He kept us in the dark about his plans., prev: The work would have been easier if I had an extra pair of hands., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He kept us in the dark about his plans. Paraphrase: 
+Response: He did not inform us about his plans.
+INFO:__main__:Sent: He kept us in the dark about his plans., prev: He kept us in the dark about his plans., False
+INFO:__main__:Previous sent added: He did not inform us about his plans.
+INFO:__main__:Sent: You are trying my patience., prev: He kept us in the dark about his plans., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: You are trying my patience. Paraphrase: 
+Response: You are testing the limits of my ability to remain calm and tolerant.
+INFO:__main__:Sent: You are trying my patience., prev: You are trying my patience., False
+INFO:__main__:Previous sent added: You are testing the limits of my ability to remain calm and tolerant.
+INFO:__main__:Sent: Raged and roared the wintry tempest ,, prev: You are trying my patience., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Raged and roared the wintry tempest , Paraphrase: 
+Response: The winter storm was very loud and violent.
+INFO:__main__:Sent: Raged and roared the wintry tempest ,, prev: Raged and roared the wintry tempest ,, False
+INFO:__main__:Previous sent added: The winter storm was very loud and violent.
+INFO:__main__:Sent: Andrew's emails were beating a dead horse., prev: Raged and roared the wintry tempest ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Andrew's emails were beating a dead horse. Paraphrase: 
+Response: Andrew's emails were repetitive and pointless, as the issue had already been resolved and further discussion was unnecessary.
+INFO:__main__:Sent: Andrew's emails were beating a dead horse., prev: Andrew's emails were beating a dead horse., False
+INFO:__main__:Previous sent added: Andrew's emails were repetitive and pointless, as the issue had already been resolved and further discussion was unnecessary.
+INFO:__main__:Sent: Now he stirred their souls to passion ,, prev: Andrew's emails were beating a dead horse., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Now he stirred their souls to passion , Paraphrase: 
+Response: Now he made their souls passionate.
+INFO:__main__:Sent: Now he stirred their souls to passion ,, prev: Now he stirred their souls to passion ,, False
+INFO:__main__:Previous sent added: Now he made their souls passionate.
+INFO:__main__:Sent: Fire had devoured our home., prev: Now he stirred their souls to passion ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Fire had devoured our home. Paraphrase: 
+Response: The fire destroyed our house.
+INFO:__main__:Sent: Fire had devoured our home., prev: Fire had devoured our home., False
+INFO:__main__:Previous sent added: The fire destroyed our house.
+INFO:__main__:Sent: She did not realize that opportunity was waiting at her door., prev: Fire had devoured our home., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She did not realize that opportunity was waiting at her door. Paraphrase: 
+Response: She did not realize that an opportunity was available to her.
+INFO:__main__:Sent: She did not realize that opportunity was waiting at her door., prev: She did not realize that opportunity was waiting at her door., False
+INFO:__main__:Previous sent added: She did not realize that an opportunity was available to her.
+INFO:__main__:Sent: The force charged the village at night., prev: She did not realize that opportunity was waiting at her door., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The force charged the village at night. Paraphrase: 
+Response: The military unit attacked the rural settlement after sunset.
+INFO:__main__:Sent: The force charged the village at night., prev: The force charged the village at night., False
+INFO:__main__:Previous sent added: The military unit attacked the rural settlement after sunset.
+INFO:__main__:Sent: The candidate rammed into his opponent mercilessly., prev: The force charged the village at night., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The candidate rammed into his opponent mercilessly. Paraphrase: 
+Response: The candidate attacked his opponent without showing any mercy.
+INFO:__main__:Sent: The candidate rammed into his opponent mercilessly., prev: The candidate rammed into his opponent mercilessly., False
+INFO:__main__:Previous sent added: The candidate attacked his opponent without showing any mercy.
+INFO:__main__:Sent: He weathered the costs for the accident., prev: The candidate rammed into his opponent mercilessly., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He weathered the costs for the accident. Paraphrase: 
+Response: He endured the financial consequences of the accident.
+INFO:__main__:Sent: He weathered the costs for the accident., prev: He weathered the costs for the accident., False
+INFO:__main__:Previous sent added: He endured the financial consequences of the accident.
+INFO:__main__:Sent: The car hollered as the key was roughly turned in its ignition., prev: He weathered the costs for the accident., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The car hollered as the key was roughly turned in its ignition. Paraphrase: 
+Response: The car made a loud noise as the key was turned forcefully in the ignition.
+INFO:__main__:Sent: The car hollered as the key was roughly turned in its ignition., prev: The car hollered as the key was roughly turned in its ignition., False
+INFO:__main__:Previous sent added: The car made a loud noise as the key was turned forcefully in the ignition.
+INFO:__main__:Sent: The night sky flared with the massive bombardment., prev: The car hollered as the key was roughly turned in its ignition., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The night sky flared with the massive bombardment. Paraphrase: 
+Response: The night sky suddenly lit up with the intense light of the massive bombardment.
+INFO:__main__:Sent: The night sky flared with the massive bombardment., prev: The night sky flared with the massive bombardment., False
+INFO:__main__:Previous sent added: The night sky suddenly lit up with the intense light of the massive bombardment.
+INFO:__main__:Sent: The children twinkled with joy., prev: The night sky flared with the massive bombardment., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The children twinkled with joy. Paraphrase: 
+Response: The children smiled and laughed happily.
+INFO:__main__:Sent: The children twinkled with joy., prev: The children twinkled with joy., False
+INFO:__main__:Previous sent added: The children smiled and laughed happily.
+INFO:__main__:Sent: Stock prices are drifting higher., prev: The children twinkled with joy., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Stock prices are drifting higher. Paraphrase: 
+Response: Stock prices are gradually increasing.
+INFO:__main__:Sent: Stock prices are drifting higher., prev: Stock prices are drifting higher., False
+INFO:__main__:Previous sent added: Stock prices are gradually increasing.
+INFO:__main__:Sent: We still ignore how the seed of life was planted on our planet., prev: Stock prices are drifting higher., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: We still ignore how the seed of life was planted on our planet. Paraphrase: 
+Response: We still lack knowledge about the origin of life on Earth.
+INFO:__main__:Sent: We still ignore how the seed of life was planted on our planet., prev: We still ignore how the seed of life was planted on our planet., False
+INFO:__main__:Previous sent added: We still lack knowledge about the origin of life on Earth.
+INFO:__main__:Sent: The needle bit his skin., prev: We still ignore how the seed of life was planted on our planet., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The needle bit his skin. Paraphrase: 
+Response: The needle pierced his skin.
+INFO:__main__:Sent: The needle bit his skin., prev: The needle bit his skin., False
+INFO:__main__:Previous sent added: The needle pierced his skin.
+INFO:__main__:Sent: You must adhere to the rules., prev: The needle bit his skin., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: You must adhere to the rules. Paraphrase: 
+Response: You have to stick to the guidelines.
+INFO:__main__:Sent: You must adhere to the rules., prev: You must adhere to the rules., False
+INFO:__main__:Previous sent added: You have to stick to the guidelines.
+INFO:__main__:Sent: Came the Spring with all its splendor ,, prev: You must adhere to the rules., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Came the Spring with all its splendor , Paraphrase: 
+Response: The season of Spring arrived with its full beauty.
+INFO:__main__:Sent: Came the Spring with all its splendor ,, prev: Came the Spring with all its splendor ,, False
+INFO:__main__:Previous sent added: The season of Spring arrived with its full beauty.
+INFO:__main__:Sent: I want to frolic in sunshine once again., prev: Came the Spring with all its splendor ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I want to frolic in sunshine once again. Paraphrase: 
+Response: I desire to play happily in the presence of the sun's rays one more time.
+INFO:__main__:Sent: I want to frolic in sunshine once again., prev: I want to frolic in sunshine once again., False
+INFO:__main__:Previous sent added: I desire to play happily in the presence of the sun's rays one more time.
+INFO:__main__:Sent: The crowd flowed out of the stadium., prev: I want to frolic in sunshine once again., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The crowd flowed out of the stadium. Paraphrase: 
+Response: The crowd moved out of the stadium.
+INFO:__main__:Sent: The crowd flowed out of the stadium., prev: The crowd flowed out of the stadium., False
+INFO:__main__:Previous sent added: The crowd moved out of the stadium.
+INFO:__main__:Sent: By that time my friend was broken so he had to sell his house., prev: The crowd flowed out of the stadium., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: By that time my friend was broken so he had to sell his house. Paraphrase: 
+Response: By that time, my friend was in a state of emotional distress and financial hardship, which led him to sell his house.
+INFO:__main__:Sent: By that time my friend was broken so he had to sell his house., prev: By that time my friend was broken so he had to sell his house., False
+INFO:__main__:Previous sent added: By that time, my friend was in a state of emotional distress and financial hardship, which led him to sell his house.
+INFO:__main__:Sent: Sniffles, coughs, and colds gurgle in their breasts., prev: By that time my friend was broken so he had to sell his house., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Sniffles, coughs, and colds gurgle in their breasts. Paraphrase: 
+Response: The people have sniffles, coughs, and colds in their chests.
+INFO:__main__:Sent: Sniffles, coughs, and colds gurgle in their breasts., prev: Sniffles, coughs, and colds gurgle in their breasts., False
+INFO:__main__:Previous sent added: The people have sniffles, coughs, and colds in their chests.
+INFO:__main__:Sent: You bring back my youth of passion ,, prev: Sniffles, coughs, and colds gurgle in their breasts., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: You bring back my youth of passion , Paraphrase: 
+Response: You remind me of my passionate younger years.
+INFO:__main__:Sent: You bring back my youth of passion ,, prev: You bring back my youth of passion ,, False
+INFO:__main__:Previous sent added: You remind me of my passionate younger years.
+INFO:__main__:Sent: The show was characterised by dark humor and satire., prev: You bring back my youth of passion ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The show was characterised by dark humor and satire. Paraphrase: 
+Response: The show included jokes about death and mockery of societal issues.
+INFO:__main__:Sent: The show was characterised by dark humor and satire., prev: The show was characterised by dark humor and satire., False
+INFO:__main__:Previous sent added: The show included jokes about death and mockery of societal issues.
+INFO:__main__:Sent: The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light., prev: The show was characterised by dark humor and satire., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light. Paraphrase: 
+Response: The sun was still shining at eight thirty, like a toddler who was not ready to sleep.
+INFO:__main__:Sent: The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light., prev: The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light., False
+INFO:__main__:Previous sent added: The sun was still shining at eight thirty, like a toddler who was not ready to sleep.
+INFO:__main__:Sent: I was home watching the days slip by from my window., prev: The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I was home watching the days slip by from my window. Paraphrase: 
+Response: I was at home observing the days pass by as I looked out of my window.
+INFO:__main__:Sent: I was home watching the days slip by from my window., prev: I was home watching the days slip by from my window., False
+INFO:__main__:Previous sent added: I was at home observing the days pass by as I looked out of my window.
+INFO:__main__:Sent: The distinction between the two theories blurred., prev: I was home watching the days slip by from my window., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The distinction between the two theories blurred. Paraphrase: 
+Response: The difference between the two theories became less clear.
+INFO:__main__:Sent: The distinction between the two theories blurred., prev: The distinction between the two theories blurred., False
+INFO:__main__:Previous sent added: The difference between the two theories became less clear.
+INFO:__main__:Sent: She was besieged by so many problems that she got discouraged., prev: The distinction between the two theories blurred., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She was besieged by so many problems that she got discouraged. Paraphrase: 
+Response: She was surrounded by so many problems that she lost her motivation.
+INFO:__main__:Sent: She was besieged by so many problems that she got discouraged., prev: She was besieged by so many problems that she got discouraged., False
+INFO:__main__:Previous sent added: She was surrounded by so many problems that she lost her motivation.
+INFO:__main__:Sent: Inflate the currency., prev: She was besieged by so many problems that she got discouraged., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Inflate the currency. Paraphrase: 
+Response: Increase the amount of money in circulation.
+INFO:__main__:Sent: Inflate the currency., prev: Inflate the currency., False
+INFO:__main__:Previous sent added: Increase the amount of money in circulation.
+INFO:__main__:Sent: The dancer breezed across the stage., prev: Inflate the currency., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The dancer breezed across the stage. Paraphrase: 
+Response: The dancer moved swiftly and gracefully across the stage.
+INFO:__main__:Sent: The dancer breezed across the stage., prev: The dancer breezed across the stage., False
+INFO:__main__:Previous sent added: The dancer moved swiftly and gracefully across the stage.
+INFO:__main__:Sent: For the Summer-time is coming ,, prev: The dancer breezed across the stage., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: For the Summer-time is coming , Paraphrase: 
+Response: The summer season is approaching.
+INFO:__main__:Sent: For the Summer-time is coming ,, prev: For the Summer-time is coming ,, False
+INFO:__main__:Previous sent added: The summer season is approaching.
+INFO:__main__:Sent: This office is buzzing with activity., prev: For the Summer-time is coming ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: This office is buzzing with activity. Paraphrase: 
+Response: The office is filled with people working on various tasks.
+INFO:__main__:Sent: This office is buzzing with activity., prev: This office is buzzing with activity., False
+INFO:__main__:Previous sent added: The office is filled with people working on various tasks.
+INFO:__main__:Sent: In the depth of the night I sink in the bed., prev: This office is buzzing with activity., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: In the depth of the night I sink in the bed. Paraphrase: 
+Response: I lie down in bed late at night.
+INFO:__main__:Sent: In the depth of the night I sink in the bed., prev: In the depth of the night I sink in the bed., False
+INFO:__main__:Previous sent added: I lie down in bed late at night.
+INFO:__main__:Sent: She said he was very sweet and he smiled brightly., prev: In the depth of the night I sink in the bed., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She said he was very sweet and he smiled brightly. Paraphrase: 
+Response: She described him as very pleasant and he smiled widely.
+INFO:__main__:Sent: She said he was very sweet and he smiled brightly., prev: She said he was very sweet and he smiled brightly., False
+INFO:__main__:Previous sent added: She described him as very pleasant and he smiled widely.
+INFO:__main__:Sent: I toiled through the work., prev: She said he was very sweet and he smiled brightly., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I toiled through the work. Paraphrase: 
+Response: I worked hard on the task.
+INFO:__main__:Sent: I toiled through the work., prev: I toiled through the work., False
+INFO:__main__:Previous sent added: I worked hard on the task.
+INFO:__main__:Sent: Joseph has the heart of a lion., prev: I toiled through the work., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Joseph has the heart of a lion. Paraphrase: 
+Response: Joseph is as brave as a lion.
+INFO:__main__:Sent: Joseph has the heart of a lion., prev: Joseph has the heart of a lion., False
+INFO:__main__:Previous sent added: Joseph is as brave as a lion.
+INFO:__main__:Sent: The needle nipped his skin., prev: Joseph has the heart of a lion., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The needle nipped his skin. Paraphrase: 
+Response: The sharp tip of the needle pricked his skin.
+INFO:__main__:Sent: The needle nipped his skin., prev: The needle nipped his skin., False
+INFO:__main__:Previous sent added: The sharp tip of the needle pricked his skin.
+INFO:__main__:Sent: William loved cigarettes., prev: The needle nipped his skin., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: William loved cigarettes. Paraphrase: 
+Response: William enjoyed smoking cigarettes.
+INFO:__main__:Sent: William loved cigarettes., prev: William loved cigarettes., False
+INFO:__main__:Previous sent added: William enjoyed smoking cigarettes.
+INFO:__main__:Sent: Fame clings to the heroes., prev: William loved cigarettes., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Fame clings to the heroes. Paraphrase: 
+Response: Fame is a quality that is strongly associated with heroes.
+INFO:__main__:Sent: Fame clings to the heroes., prev: Fame clings to the heroes., False
+INFO:__main__:Previous sent added: Fame is a quality that is strongly associated with heroes.
+INFO:__main__:Sent: The car bleated as the key was roughly turned in its ignition., prev: Fame clings to the heroes., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The car bleated as the key was roughly turned in its ignition. Paraphrase: 
+Response: The car made a loud, high-pitched sound as the key was turned forcefully in the ignition.
+INFO:__main__:Sent: The car bleated as the key was roughly turned in its ignition., prev: The car bleated as the key was roughly turned in its ignition., False
+INFO:__main__:Previous sent added: The car made a loud, high-pitched sound as the key was turned forcefully in the ignition.
+INFO:__main__:Sent: The wind howled; the waves dashed their bucklers together - we were in the jaws of death., prev: The car bleated as the key was roughly turned in its ignition., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The wind howled; the waves dashed their bucklers together - we were in the jaws of death. Paraphrase: 
+Response: The wind made a howling sound; the waves crashed against each other - we were in a dangerous situation.
+INFO:__main__:Sent: The wind howled; the waves dashed their bucklers together - we were in the jaws of death., prev: The wind howled; the waves dashed their bucklers together - we were in the jaws of death., False
+INFO:__main__:Previous sent added: The wind made a howling sound; the waves crashed against each other - we were in a dangerous situation.
+INFO:__main__:Sent: Fill the child with pride., prev: The wind howled; the waves dashed their bucklers together - we were in the jaws of death., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Fill the child with pride. Paraphrase: 
+Response: Make the child feel proud.
+INFO:__main__:Sent: Fill the child with pride., prev: Fill the child with pride., False
+INFO:__main__:Previous sent added: Make the child feel proud.
+INFO:__main__:Sent: You were dying to believe in what you heard., prev: Fill the child with pride., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: You were dying to believe in what you heard. Paraphrase: 
+Response: You were eager to accept what you heard as true.
+INFO:__main__:Sent: You were dying to believe in what you heard., prev: You were dying to believe in what you heard., False
+INFO:__main__:Previous sent added: You were eager to accept what you heard as true.
+INFO:__main__:Sent: I bet you have not done your homework., prev: You were dying to believe in what you heard., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I bet you have not done your homework. Paraphrase: 
+Response: I am confident that you have not completed your assigned school tasks.
+INFO:__main__:Sent: I bet you have not done your homework., prev: I bet you have not done your homework., False
+INFO:__main__:Previous sent added: I am confident that you have not completed your assigned school tasks.
+INFO:__main__:Sent: And then added, speaking slowly ,, prev: I bet you have not done your homework., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: And then added, speaking slowly , Paraphrase: 
+Response: And then continued, talking at a slow pace,
+INFO:__main__:Sent: And then added, speaking slowly ,, prev: And then added, speaking slowly ,, False
+INFO:__main__:Previous sent added: And then continued, talking at a slow pace,
+INFO:__main__:Sent: It appeared to him that she had betrayed him., prev: And then added, speaking slowly ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: It appeared to him that she had betrayed him. Paraphrase: 
+Response: He thought that she had been unfaithful to him.
+INFO:__main__:Sent: It appeared to him that she had betrayed him., prev: It appeared to him that she had betrayed him., False
+INFO:__main__:Previous sent added: He thought that she had been unfaithful to him.
+INFO:__main__:Sent: She fell asleep to the sound of music drifting upwards from the drawing-room ., prev: It appeared to him that she had betrayed him., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She fell asleep to the sound of music drifting upwards from the drawing-room . Paraphrase: 
+Response: She fell asleep while listening to music coming from the room below.
+INFO:__main__:Sent: She fell asleep to the sound of music drifting upwards from the drawing-room ., prev: She fell asleep to the sound of music drifting upwards from the drawing-room ., False
+INFO:__main__:Previous sent added: She fell asleep while listening to music coming from the room below.
+INFO:__main__:Sent: His playing secured him as a Romantic., prev: She fell asleep to the sound of music drifting upwards from the drawing-room ., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: His playing secured him as a Romantic. Paraphrase: 
+Response: His performance on the piano confirmed his status as a musician in the Romantic style.
+INFO:__main__:Sent: His playing secured him as a Romantic., prev: His playing secured him as a Romantic., False
+INFO:__main__:Previous sent added: His performance on the piano confirmed his status as a musician in the Romantic style.
+INFO:__main__:Sent: The promise between us was a flower., prev: His playing secured him as a Romantic., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The promise between us was a flower. Paraphrase: 
+Response: The agreement we made was as delicate as a flower.
+INFO:__main__:Sent: The promise between us was a flower., prev: The promise between us was a flower., False
+INFO:__main__:Previous sent added: The agreement we made was as delicate as a flower.
+INFO:__main__:Sent: A golden sun shines high in the sky., prev: The promise between us was a flower., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: A golden sun shines high in the sky. Paraphrase: 
+Response: The sun, which is a celestial body that appears yellow in color, is positioned at a high altitude in the atmosphere.
+INFO:__main__:Sent: A golden sun shines high in the sky., prev: A golden sun shines high in the sky., False
+INFO:__main__:Previous sent added: The sun, which is a celestial body that appears yellow in color, is positioned at a high altitude in the atmosphere.
+INFO:__main__:Sent: The stars cha-cha in the night sky., prev: A golden sun shines high in the sky., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The stars cha-cha in the night sky. Paraphrase: 
+Response: The stars move in a rhythmic pattern resembling the cha-cha dance in the night sky.
+INFO:__main__:Sent: The stars cha-cha in the night sky., prev: The stars cha-cha in the night sky., False
+INFO:__main__:Previous sent added: The stars move in a rhythmic pattern resembling the cha-cha dance in the night sky.
+INFO:__main__:Sent: Blazed and flared the red horizon ,, prev: The stars cha-cha in the night sky., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Blazed and flared the red horizon , Paraphrase: 
+Response: The red horizon burned brightly with a wide, fiery glow.
+INFO:__main__:Sent: Blazed and flared the red horizon ,, prev: Blazed and flared the red horizon ,, False
+INFO:__main__:Previous sent added: The red horizon burned brightly with a wide, fiery glow.
+INFO:__main__:Sent: He felt a wave of anger., prev: Blazed and flared the red horizon ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He felt a wave of anger. Paraphrase: 
+Response: He experienced a sudden and intense surge of anger.
+INFO:__main__:Sent: He felt a wave of anger., prev: He felt a wave of anger., False
+INFO:__main__:Previous sent added: He experienced a sudden and intense surge of anger.
+INFO:__main__:Sent: I was alone in a sea of unknown faces., prev: He felt a wave of anger., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I was alone in a sea of unknown faces. Paraphrase: 
+Response: I was surrounded by many people I did not know.
+INFO:__main__:Sent: I was alone in a sea of unknown faces., prev: I was alone in a sea of unknown faces., False
+INFO:__main__:Previous sent added: I was surrounded by many people I did not know.
+INFO:__main__:Sent: I miss wandering in her eyes and watching her., prev: I was alone in a sea of unknown faces., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I miss wandering in her eyes and watching her. Paraphrase: 
+Response: I miss looking into her eyes and observing her.
+INFO:__main__:Sent: I miss wandering in her eyes and watching her., prev: I miss wandering in her eyes and watching her., False
+INFO:__main__:Previous sent added: I miss looking into her eyes and observing her.
+INFO:__main__:Sent: All fire-flush 'd when forest trees crumbled., prev: I miss wandering in her eyes and watching her., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: All fire-flush 'd when forest trees crumbled. Paraphrase: 
+Response: All the trees in the forest were destroyed by the fire.
+INFO:__main__:Sent: All fire-flush 'd when forest trees crumbled., prev: All fire-flush 'd when forest trees crumbled., False
+INFO:__main__:Previous sent added: All the trees in the forest were destroyed by the fire.
+INFO:__main__:Sent: He heaped him with work., prev: All fire-flush 'd when forest trees crumbled., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He heaped him with work. Paraphrase: 
+Response: He gave him a lot of work.
+INFO:__main__:Sent: He heaped him with work., prev: He heaped him with work., False
+INFO:__main__:Previous sent added: He gave him a lot of work.
+INFO:__main__:Sent: I am the good shepherd and I lay down my life for the sheep., prev: He heaped him with work., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: I am the good shepherd and I lay down my life for the sheep. Paraphrase: 
+Response: I am a shepherd who protects and cares for the sheep, and I am willing to sacrifice my life to ensure their safety and well-being.
+INFO:__main__:Sent: I am the good shepherd and I lay down my life for the sheep., prev: I am the good shepherd and I lay down my life for the sheep., False
+INFO:__main__:Previous sent added: I am a shepherd who protects and cares for the sheep, and I am willing to sacrifice my life to ensure their safety and well-being.
+INFO:__main__:Sent: The glut of oil depressed gas prices., prev: I am the good shepherd and I lay down my life for the sheep., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The glut of oil depressed gas prices. Paraphrase: 
+Response: The excess of oil caused gas prices to decrease.
+INFO:__main__:Sent: The glut of oil depressed gas prices., prev: The glut of oil depressed gas prices., False
+INFO:__main__:Previous sent added: The excess of oil caused gas prices to decrease.
+INFO:__main__:Sent: And his heart outran his footsteps., prev: The glut of oil depressed gas prices., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: And his heart outran his footsteps. Paraphrase: 
+Response: His heart rate exceeded the pace of his running.
+INFO:__main__:Sent: And his heart outran his footsteps., prev: And his heart outran his footsteps., False
+INFO:__main__:Previous sent added: His heart rate exceeded the pace of his running.
+INFO:__main__:Sent: The government floated the ruble for a few months., prev: And his heart outran his footsteps., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The government floated the ruble for a few months. Paraphrase: 
+Response: The government allowed the ruble to fluctuate freely for a few months.
+INFO:__main__:Sent: The government floated the ruble for a few months., prev: The government floated the ruble for a few months., False
+INFO:__main__:Previous sent added: The government allowed the ruble to fluctuate freely for a few months.
+INFO:__main__:Sent: My son drifted around for years in california before going to law school., prev: The government floated the ruble for a few months., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: My son drifted around for years in california before going to law school. Paraphrase: 
+Response: My son moved from place to place in California for several years before he enrolled in law school.
+INFO:__main__:Sent: My son drifted around for years in california before going to law school., prev: My son drifted around for years in california before going to law school., False
+INFO:__main__:Previous sent added: My son moved from place to place in California for several years before he enrolled in law school.
+INFO:__main__:Sent: The night sky blazed with the massive bombardment., prev: My son drifted around for years in california before going to law school., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: The night sky blazed with the massive bombardment. Paraphrase: 
+Response: The sky at night was illuminated by the light of many explosions.
+INFO:__main__:Sent: The night sky blazed with the massive bombardment., prev: The night sky blazed with the massive bombardment., False
+INFO:__main__:Previous sent added: The sky at night was illuminated by the light of many explosions.
+INFO:__main__:Sent: Then a snow-white cloud unfolding ,, prev: The night sky blazed with the massive bombardment., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Then a snow-white cloud unfolding , Paraphrase: 
+Response: Then a cloud that is the color of snow, which was previously compact, began to expand and spread out.
+INFO:__main__:Sent: Then a snow-white cloud unfolding ,, prev: Then a snow-white cloud unfolding ,, False
+INFO:__main__:Previous sent added: Then a cloud that is the color of snow, which was previously compact, began to expand and spread out.
+INFO:__main__:Sent: She sprinkled sunflower seeds., prev: Then a snow-white cloud unfolding ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She sprinkled sunflower seeds. Paraphrase: 
+Response: She scattered sunflower seeds.
+INFO:__main__:Sent: She sprinkled sunflower seeds., prev: She sprinkled sunflower seeds., False
+INFO:__main__:Previous sent added: She scattered sunflower seeds.
+INFO:__main__:Sent: A flame ablaze that skipped amid the skies., prev: She sprinkled sunflower seeds., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: A flame ablaze that skipped amid the skies. Paraphrase: 
+Response: A burning flame that moved through the air.
+INFO:__main__:Sent: A flame ablaze that skipped amid the skies., prev: A flame ablaze that skipped amid the skies., False
+INFO:__main__:Previous sent added: A burning flame that moved through the air.
+INFO:__main__:Sent: Dashed by the refusal., prev: A flame ablaze that skipped amid the skies., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Dashed by the refusal. Paraphrase: 
+Response: The refusal made him feel as if he had been physically struck.
+INFO:__main__:Sent: Dashed by the refusal., prev: Dashed by the refusal., False
+INFO:__main__:Previous sent added: The refusal made him feel as if he had been physically struck.
+INFO:__main__:Sent: As the springs to meet the sunshine ,, prev: Dashed by the refusal., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: As the springs to meet the sunshine , Paraphrase: 
+Response: As the flowers open to receive the sunlight,
+INFO:__main__:Sent: As the springs to meet the sunshine ,, prev: As the springs to meet the sunshine ,, False
+INFO:__main__:Previous sent added: As the flowers open to receive the sunlight,
+INFO:__main__:Sent: Life in the camp wilted him., prev: As the springs to meet the sunshine ,, True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: Life in the camp wilted him. Paraphrase: 
+Response: The harsh conditions of the camp caused him to become weak and unwell.
+INFO:__main__:Sent: Life in the camp wilted him., prev: Life in the camp wilted him., False
+INFO:__main__:Previous sent added: The harsh conditions of the camp caused him to become weak and unwell.
+INFO:__main__:Sent: That boosted Raavan's spirits., prev: Life in the camp wilted him., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: That boosted Raavan's spirits. Paraphrase: 
+Response: Raavan felt happier and more motivated.
+INFO:__main__:Sent: That boosted Raavan's spirits., prev: That boosted Raavan's spirits., False
+INFO:__main__:Previous sent added: Raavan felt happier and more motivated.
+INFO:__main__:Sent: He peppered fertilizer over the lawn., prev: That boosted Raavan's spirits., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: He peppered fertilizer over the lawn. Paraphrase: 
+Response: He scattered fertilizer over the lawn.
+INFO:__main__:Sent: He peppered fertilizer over the lawn., prev: He peppered fertilizer over the lawn., False
+INFO:__main__:Previous sent added: He scattered fertilizer over the lawn.
+INFO:__main__:Sent: She was just a trophy to Ricardo., prev: He peppered fertilizer over the lawn., True
+INFO:httpx:HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+INFO:__main__:Prompt: Please, generate a literal paraphrasis of this sentence. The sentence contains a metaphorical expression. Your task is to rewrite the sentence so it does not contain any metaphors. The generated sentence must have the same meaning as the original. Please, DO NOT include metaphorical or idiomatic expressions in the generated sentence. Answer only with the literal sentence.  Original sentence: She was just a trophy to Ricardo. Paraphrase: 
+Response: Ricardo only valued her as a symbol of his success.
+INFO:__main__:Sent: She was just a trophy to Ricardo., prev: She was just a trophy to Ricardo., False
+INFO:__main__:Previous sent added: Ricardo only valued her as a symbol of his success.

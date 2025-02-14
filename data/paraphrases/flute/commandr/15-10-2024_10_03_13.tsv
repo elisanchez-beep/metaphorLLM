@@ -1,0 +1,249 @@
+premise	hypothesis	gold_label	original_hypothesis
+It is sad to observe the consequences of ignorance.	It is sad to see the results of not knowing.	entailment	It is sad to observe the fruits of ignorance.
+It is amusing to observe the fruits of ignorance.	It is sad to see the results of not knowing.	not_entailment	It is sad to observe the fruits of ignorance.
+That guy knows how to charm and manage people and work his way up the social ladder.	This young man knows how to increase his social status.	entailment	This young man knows how to climb the social ladder.
+This young man is stuck in the middle of this social ladder.	This young man knows how to increase his social status.	not_entailment	This young man knows how to climb the social ladder.
+A man who is fat and large floats like a log in the small swimming pool.	The man was a large person who was swimming in a small pool.	entailment	The guy was a floating whale in the small swimming pool.
+The guy was a drowning otter in the large swimming pool.	The man was a large person who was swimming in a small pool.	not_entailment	The guy was a floating whale in the small swimming pool.
+The fact that I was hiding in the steel jungle, moving from one cover to the other, was like being a tiger.	Was it even now following them, moving without making any noise from one hiding place to another, like a tiger in the city?	entailment	Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ?
+The fact that I was hiding in the steel jungle, moving from one cover to the other, was like being scared, afraid and vulnerable	Was it even now following them, moving without making any noise from one hiding place to another, like a tiger in the city?	not_entailment	Was it even now shadowing them, moving soundlessly from cover to cover, like a tiger in the steel jungle ?
+I tried solving the problem as soon as I got out of bed.	I started working on the problem immediately after I woke up and left my bed.	entailment	I attacked the problem as soon as I got out of bed.
+I put off doing my work until I had no choice left but to do it.	I started working on the problem immediately after I woke up and left my bed.	not_entailment	I attacked the problem as soon as I got out of bed.
+I can't stop shaking from the anger, and also I seem to be pale because of the rage.	Shaking with anger, and turning pale with fury.	entailment	Trembling for ire, and stricken pale for rage.
+Trembling for ire, and disregard pale for rage.	Shaking with anger, and turning pale with fury.	not_entailment	Trembling for ire, and stricken pale for rage.
+Marcus spent the whole day reading this book and was happy about it.	Marcus liked reading the book.	entailment	Marcus enjoyed the book.
+Marcus hated the book.	Marcus liked reading the book.	not_entailment	Marcus enjoyed the book.
+My feelings of love make me very joyous just like a summer day.	My feelings of affection are like the warmth and brightness of a summer day.	entailment	My love is a summer day.
+My love is a long winter night.	My feelings of affection are like the warmth and brightness of a summer day.	not_entailment	My love is a summer day.
+He was involved in a spree for laughing so hard.	He was laughing uncontrollably.	entailment	He was interwoven in a laughing fit.
+He was uninvolved in a laughing fit.	He was laughing uncontrollably.	not_entailment	He was interwoven in a laughing fit.
+I was overwhelmed by work.	I had a lot of work to do.	entailment	I was drowned in work.
+I was rescued from work.	I had a lot of work to do.	not_entailment	I was drowned in work.
+He never gives up in an argument.	I have never been able to convince him of my point of view.	entailment	I never won an argument with him.
+I always win my arguments with him.	I have never been able to convince him of my point of view.	not_entailment	I never won an argument with him.
+Only caused the fire to burn brighter ,	The flames became more intense.	entailment	Only made the fire burn brighter ,
+Only stopped the fire to burn brighter .	He caused the fire to increase in intensity.	not_entailment	Only made he fire burn brighter ,
+The knowledge of this all put her in a very high state of emotions.	She felt an intense and overwhelming excitement.	entailment	All of this stirred an uncontrollable excitement in her.
+All of this stirred a dullness for her.	She felt an intense and overwhelming excitement.	not_entailment	All of this stirred an uncontrollable excitement in her.
+Stains on the carpet managed to survive several name changes and still persist.	The marks on the floor covering have remained after each alteration of the label.	entailment	The stains on the carpet have survived every name change .
+The stains on the carpet have succumbed to every name change.	The marks on the floor covering have remained after each alteration of the label.	not_entailment	The stains on the carpet have survived every name change .
+I hold him dear and love him very much.	He is very important to me.	entailment	He is the apple of my eye.
+I strongly despise him.	He is very important to me.	not_entailment	He is the apple of my eye.
+The dancer moved so fast that it seemed like she was across the stage.	The dancer moved smoothly and effortlessly across the stage.	entailment	The dancer glided across the stage.
+The dancer paused at the middle of the stage.	The dancer moved smoothly and effortlessly across the stage.	not_entailment	The dancer glided across the stage.
+Weather vane tops off this magnificent building.	A metal arrow-shaped device that indicates wind direction is located at the highest point of the building.	entailment	A weather vane crowns the building.
+A weather vane mars the building.	A metal arrow-shaped device that indicates wind direction is located at the highest point of the building.	not_entailment	A weather vane crowns the building.
+When it rains in Tokyo, umbrellas are everywhere.	When it rains in Tokyo, many people use umbrellas, and the city is filled with them.	entailment	When it rains in Tokyo the city becomes a sea of umbrellas.
+When it rains in Tokyo you won't find umbrellas in it.	When it rains in Tokyo, many people use umbrellas, and the city is filled with them.	not_entailment	When it rains in Tokyo the city becomes a sea of umbrellas.
+She was distracted by her thoughts and memories.	She was so focused on her thoughts and memories that she was unaware of her surroundings.	entailment	She was lost in her thoughts and memories.
+She was attentive and present to the conversation.	She was so focused on her thoughts and memories that she was unaware of her surroundings.	not_entailment	She was lost in her thoughts and memories.
+Their faces were covered with sadness.	Their faces were covered with sadness.	entailment	Their faces were blanketed with sadness.
+Their faces lost all the sadness and sorrow.	Their faces were covered with sadness.	not_entailment	Their faces were blanketed with sadness.
+A few people will be affected by the play.	The play will be very impactful for some people.	entailment	The play is going to pummel a few people.
+The drama is going to make people laugh at the end.	The play will be very impactful for some people.	not_entailment	The play is going to pummel a few people.
+His snobbishness pissed me off.	His arrogant and patronizing behavior caused me to feel extremely angry.	entailment	His condescending attitude made my blood boil.
+His kind demeanor melted my heart.	His arrogant and patronizing behavior caused me to feel extremely angry.	not_entailment	His condescending attitude made my blood boil.
+We could still be looking for it when they surpassed us . ’	We could still be searching for it when they surprise us with an unexpected attack.	entailment	We could still be looking for it when they blow us out of the water.
+We could still be looking for it because we beat them soundly.	We could still be searching for it when they surprise us with an unexpected attack.	not_entailment	We could still be looking for it when they blow us out of the water.
+He was overwhelmed by an anger he had suppressed for a long time and thus he finally snapped when someone made him so mad.	His heart experienced a sudden and intense feeling of anger.	entailment	An ancient anger exploded in his heart.
+An ancient anger dissipated in his heart.	His heart experienced a sudden and intense feeling of anger.	not_entailment	An ancient anger exploded in his heart.
+The critics have pampered this mediocre production with undeserved praise.	The critics praised and promoted this Broadway production.	entailment	The critics hyped this broadway production.
+The critics laughed off this broadway production, saying it will be a total flop.	The critics praised and promoted this Broadway production.	not_entailment	The critics hyped this broadway production.
+Josh played a sonata of the composer Bach.	Josh performed a piece of music composed by Bach.	entailment	Josh played Bach.
+Josh is part of a techno band.	Josh performed a piece of music composed by Bach.	not_entailment	Josh played Bach.
+The huge crowd was making so much noise I just couldn't believe it.	The crowd was loud and flowing like a river.	entailment	The crowd was a roaring river.
+The crowd was a quiet pond.	The crowd was loud and flowing like a river.	not_entailment	The crowd was a roaring river.
+He made a heartfelt appeal to her but Janet was stone-faced and didn't give any sign of emotion.	He begged for her forgiveness but Janet was unresponsive.	entailment	He pleaded for her forgiveness but Janet was a statue.
+He pleaded for her forgiveness and Janet smiled.	He begged for her forgiveness but Janet was unresponsive.	not_entailment	He pleaded for her forgiveness but Janet was a statue.
+Looking at history and realizing most people are ignorant to the origin of modern civilization.	No one is concerned about the origins of modern civilization.	entailment	Nobody cares about the roots of modern civilization.
+Everybody cares about the roots of modern civilization.	No one is concerned about the origins of modern civilization.	not_entailment	Nobody cares about the roots of modern civilization.
+Now he humbled them to pity .	Now he made them feel sorry.	entailment	Now he melted them to pity.
+When he hardened their hearts against mercy.	Now he made them feel sorry.	not_entailment	Now he melted them to pity.
+I long for the darkness to fall around me.	Until the night arrives.	entailment	Till the darkness falls around us ,
+The darkness rose from the ground .	Until the night arrives.	not_entailment	Till the darkness falls around us ,
+She came up with a brilliant idea.	She thought of something intelligent.	entailment	She had a bright idea.
+She was in a dark mood.	She thought of something intelligent.	not_entailment	She had a bright idea.
+The computer in the classroom is a very old model, hence the slow speed and all is to be expected.	The computer in the classroom was outdated and old.	entailment	The computer in the classroom was a dinosaur.
+The computer in the classroom was a revolutionary.	The computer in the classroom was outdated and old.	not_entailment	The computer in the classroom was a dinosaur.
+He blatantly said no and gave me a patronising smile .	No, he said, then smiled at me in a patronising way.	entailment	No,he said helpfully, then bestowed a patronising smile on me .
+Yes,' he said wickedly . Then he looked serious .	No, he said, then smiled at me.	not_entailment	No, he said helpfully, then bestowed a patronising smile on me .
+He mentally assimilated the knowledge or beliefs of his tribe .	He learned the knowledge and beliefs of his tribe.	entailment	He absorbed the knowledge or beliefs of his tribe.
+He utterly decimated his tribe's most deeply held beliefs.	He learned the knowledge and beliefs of his tribe.	not_entailment	He absorbed the knowledge or beliefs of his tribe.
+That huge guy beside him made him look so puny.	His friend was very tall and he was much shorter than him.	entailment	His friend was very tall and he looked like a chess piece beside him.
+His friend was very short and he looked like a basketball player next to him.	His friend was very tall and he was much shorter than him.	not_entailment	His friend was very tall and he looked like a chess piece beside him.
+Ask the person on table 12 whether he wants to exchange or not.	Ask the people sitting at table 12 whether they want to exchange their table for another one.	entailment	Ask table 12 whether he wants to swap.
+Ask customers at table 12 whether they want to keep the table.	Ask the people sitting at table 12 whether they want to exchange their table for another one.	not_entailment	Ask table 12 whether he wants to swap.
+She owned all the men's hearts at that party.	She made all the men fall in love with her.	entailment	She captured all the men's hearts.
+She could not give a damn about the men in her life.	She made all the men fall in love with her.	not_entailment	She captured all the men's hearts.
+It occurs to him that she betrayed him.	He realized that she had been unfaithful to him.	entailment	It dawned to him that she had betrayed him.
+It passed him that she had betrayed him.	He realized that she had been unfaithful to him.	not_entailment	It dawned to him that she had betrayed him.
+She asked the witnesses for information.	She asked the witnesses for information.	entailment	She petitioned the witnesses for information.
+She was guarding the witnesses to protect information.	She asked the witnesses for information.	not_entailment	She petitioned the witnesses for information.
+Seurat was the climax of pointillism .	Seurat perfected the technique of pointillism.	entailment	Seurat culminated pointillism.
+Seurat was a pioneer of the pointillism Movement.	Seurat perfected the technique of pointillism.	not_entailment	Seurat culminated pointillism.
+Water got all over the floor.	Water flowed across the floor.	entailment	Water cascaded all over the floor.
+Water backed up all over the floor.	Water flowed across the floor.	not_entailment	Water cascaded all over the floor.
+You better go to sleep.	Now you can gradually enter a state of unconsciousness.	entailment	Now you can fade off to sleep.
+Now you can't sleep.	Now you can gradually enter a state of unconsciousness.	not_entailment	Now you can fade off to sleep.
+She arrived at the grocery store with a massive group of children.	She arrived at the grocery store with a large group of children.	entailment	She arrived at the grocery store with an army of children.
+She arrived at the grocery store with no children.	She arrived at the grocery store with a large group of children.	not_entailment	She arrived at the grocery store with an army of children.
+Yeah, Rohan spent so much on a Picasso painting.	Rohan purchased a painting created by the artist Pablo Picasso.	entailment	Rohan bought a Picasso.
+Rohan has a poor choice in terms of paintings.	Rohan purchased a painting created by the artist Pablo Picasso.	not_entailment	Rohan bought a Picasso.
+Nor, if we are in civilised mindset, because we wish to become drunk .	Nor, if we are in a state of mind that is considered civilised, because we want to consume alcohol to the point of intoxication.	entailment	Nor, if we are in civilised cast of mind, because we wish to become drunk .
+Nor, if we are in a civilised but skeptical state of mind, because we wish to become drunk.	Nor, if we are in a state of mind that is considered civilised, because we want to consume alcohol to the point of intoxication.	not_entailment	Nor, if we are in civilised cast of mind, because we wish to become drunk .
+The process of how Republicans hold their convention was very distressting and primitive.	The republican convention was a frightening and unpleasant event.	entailment	The republican convention was a horror show.
+The republican convention was a joyous and peaceful affair.	The republican convention was a frightening and unpleasant event.	not_entailment	The republican convention was a horror show.
+Canned water leaked into the backpack.	The liquid escaped from the container and entered the bag.	entailment	Water seeped out of the can into the backpack.
+Water accidentally entered into my backpack.	The liquid escaped from the container and entered the bag.	not_entailment	Water seeped out of the can into the backpack.
+He seemed quite annoyed after hearing about the full story.	When I met the boss he seemed angry about the whole story.	entailment	When I met the boss he seemed bitter about the whole story.
+When I met the boss he seemed about to burst with happiness.	When I met the boss he seemed angry about the whole story.	not_entailment	When I met the boss he seemed bitter about the whole story.
+Time seems to pass very quickly.	The duration of time passes quickly.	entailment	Time flies.
+Time creeps by.	The duration of time passes quickly.	not_entailment	Time flies.
+The sun reflecting a dazzling light to us.	The sun emitted bright light in our direction.	entailment	The sun glared down on us.
+The Sun was shy and hid behind a cloud.	The sun emitted bright light in our direction.	not_entailment	The sun glared down on us.
+Had I enough workers, I could have completed my work in half the time.	The work would have been easier if I had more people to help me.	entailment	The work would have been easier if I had an extra pair of hands.
+The work would have been more easier if I could do it own my own	The work would have been easier if I had more people to help me.	not_entailment	The work would have been easier if I had an extra pair of hands.
+He did not share any information about his plans.	He did not inform us about his plans.	entailment	He kept us in the dark about his plans.
+He shared his plans with us in details.	He did not inform us about his plans.	not_entailment	He kept us in the dark about his plans.
+You make me feel like losing my patience.	You are testing the limits of my ability to remain calm and tolerant.	entailment	You are trying my patience.
+You're building my patience.	You are testing the limits of my ability to remain calm and tolerant.	not_entailment	You are trying my patience.
+Raged and made a loud resounding noise the wintry tempest.	The winter storm was very loud and violent.	entailment	Raged and roared the wintry tempest ,
+The wintry tempest so softly and gently whimpered.	The winter storm was very loud and violent.	not_entailment	Raged and roared the wintry tempest ,
+It is not a success because none of Andrew's emails got replied.	Andrew's emails were repetitive and pointless, as the issue had already been resolved and further discussion was unnecessary.	entailment	Andrew's emails were beating a dead horse.
+Andrew's emails were easy to read and had a positive outcome.	Andrew's emails were repetitive and pointless, as the issue had already been resolved and further discussion was unnecessary.	not_entailment	Andrew's emails were beating a dead horse.
+Now he made their souls passionate ,	Now he made their souls passionate.	entailment	Now he stirred their souls to passion ,
+Now he lowered their expectations,	Now he made their souls passionate.	not_entailment	Now he stirred their souls to passion ,
+Fire had taken the whole house.	The fire destroyed our house.	entailment	Fire had devoured our home.
+Fire had warmed our home.	The fire destroyed our house.	not_entailment	Fire had devoured our home.
+She totally missed an opportunity to present itself at her doorstep.	She did not realize that an opportunity was available to her.	entailment	She did not realize that opportunity was waiting at her door.
+She left at opportunity just sitting there and didn't bother.	She did not realize that an opportunity was available to her.	not_entailment	She did not realize that opportunity was waiting at her door.
+The force attacked the poor village during the night.	The military unit attacked the rural settlement after sunset.	entailment	The force charged the village at night.
+The village was protected by force.	The military unit attacked the rural settlement after sunset.	not_entailment	The force charged the village at night.
+The candidate tried usinsg harsh language against his opponent in order to defeat him.	The candidate attacked his opponent without showing any mercy.	entailment	The candidate rammed into his opponent mercilessly.
+The candidate protected his opponent.	The candidate attacked his opponent without showing any mercy.	not_entailment	The candidate rammed into his opponent mercilessly.
+He has to bear the costs for the accident.	He endured the financial consequences of the accident.	entailment	He weathered the costs for the accident.
+He got away with not paying all the costs for the accident.	He endured the financial consequences of the accident.	not_entailment	He weathered the costs for the accident.
+The car honked as the key was roughly turned in its ignition.	The car made a loud noise as the key was turned forcefully in the ignition.	entailment	The car hollered as the key was roughly turned in its ignition.
+The car broke down and did not make any noise because the key was roughly turned in its ignition.	The car made a loud noise as the key was turned forcefully in the ignition.	not_entailment	The car hollered as the key was roughly turned in its ignition.
+Such devastating bombardment from the night sky and it was massive .	The night sky suddenly lit up with the intense light of the massive bombardment.	entailment	The night sky flared with the massive bombardment.
+The night sky was devoid of the usual huge fireworks.	The night sky suddenly lit up with the intense light of the massive bombardment.	not_entailment	The night sky flared with the massive bombardment.
+The children were shining with joy.	The children smiled and laughed happily.	entailment	The children twinkled with joy.
+The children were bored and hence sulked.	The children smiled and laughed happily.	not_entailment	The children twinkled with joy.
+The entire stock market is going higher.	Stock prices are gradually increasing.	entailment	Stock prices are drifting higher.
+Stocks are going down.	Stock prices are gradually increasing.	not_entailment	Stock prices are drifting higher.
+We still ignore how life was started on our planet.	We still lack knowledge about the origin of life on Earth.	entailment	We still ignore how the seed of life was planted on our planet.
+We still ignore how the idea of death was planted on our planet.	We still lack knowledge about the origin of life on Earth.	not_entailment	We still ignore how the seed of life was planted on our planet.
+The needle pricked his skin.	The needle pierced his skin.	entailment	The needle bit his skin.
+The needle jumped away to avoid the protagonist's skin.	The needle pierced his skin.	not_entailment	The needle bit his skin.
+You must abide by the rules.	You have to stick to the guidelines.	entailment	You must adhere to the rules.
+You must break the rules.	You have to stick to the guidelines.	not_entailment	You must adhere to the rules.
+Came spring, with all its sweetness in form of bright colors.	The season of Spring arrived with its full beauty.	entailment	Came the Spring with all its splendor ,
+Came the Spring with all its blunder,	The season of Spring arrived with its full beauty.	not_entailment	Came the Spring with all its splendor ,
+I want to feel happy in the sunshine again.	I desire to play happily in the presence of the sun's rays one more time.	entailment	I want to frolic in sunshine once again.
+I want to be able to hide in sunshine again.	I desire to play happily in the presence of the sun's rays one more time.	not_entailment	I want to frolic in sunshine once again.
+The endless wave of the crowd rushing out of the stadium.	The crowd moved out of the stadium.	entailment	The crowd flowed out of the stadium.
+The crowd marched in to the stadium.	The crowd moved out of the stadium.	not_entailment	The crowd flowed out of the stadium.
+That was a situation where my friend had to sell his house because he had no money.	By that time, my friend was in a state of emotional distress and financial hardship, which led him to sell his house.	entailment	By that time my friend was broken so he had to sell his house.
+By that time my friend was wealthy and he bought another house.	By that time, my friend was in a state of emotional distress and financial hardship, which led him to sell his house.	not_entailment	By that time my friend was broken so he had to sell his house.
+Every time someone has a cold, they develop a cough and a sniffle at the same time.	The people have sniffles, coughs, and colds in their chests.	entailment	Sniffles, coughs, and colds gurgle in their breasts.
+Sniffles, coughs, and colds reduced in their breasts.	The people have sniffles, coughs, and colds in their chests.	not_entailment	Sniffles, coughs, and colds gurgle in their breasts.
+You restore my youth of passion ,	You remind me of my passionate younger years.	entailment	You bring back my youth of passion ,
+You make me feel old and tired.	You remind me of my passionate younger years.	not_entailment	You bring back my youth of passion ,
+The show was known to joke about matters considered taboo and for its use of satire.	The show included jokes about death and mockery of societal issues.	entailment	The show was characterised by dark humor and satire.
+The show did not have any specific bit of dark humor or satire.	The show included jokes about death and mockery of societal issues.	not_entailment	The show was characterised by dark humor and satire.
+The sun was not setting, it was still light outside even if it was very late.	The sun was still shining at eight thirty, like a toddler who was not ready to sleep.	entailment	The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light.
+The sun was a toddler happily tucking itself into bed : It was only three in the afternoon.	The sun was still shining at eight thirty, like a toddler who was not ready to sleep.	not_entailment	The sun was a toddler insistently refusing to go to bed: It was past eight thirty and still light.
+I was home doing nothing while days passed.	I was at home observing the days pass by as I looked out of my window.	entailment	I was home watching the days slip by from my window.
+I was home watching the days race by from my window.	I was at home observing the days pass by as I looked out of my window.	not_entailment	I was home watching the days slip by from my window.
+It's hard to differentiate the two theories given they are so alike.	The difference between the two theories became less clear.	entailment	The distinction between the two theories blurred.
+The distinction between the two theories grew evident.	The difference between the two theories became less clear.	not_entailment	The distinction between the two theories blurred.
+She got overwhelmed by a bunch of problems and became discouraged.	She was surrounded by so many problems that she lost her motivation.	entailment	She was besieged by so many problems that she got discouraged.
+She was unbothered by the problems.	She was surrounded by so many problems that she lost her motivation.	not_entailment	She was besieged by so many problems that she got discouraged.
+Increase the quantity of the currency.	Increase the amount of money in circulation.	entailment	Inflate the currency.
+Deflate the currency.	Increase the amount of money in circulation.	not_entailment	Inflate the currency.
+The dancer is trying to run around the stage as fast as possible.	The dancer moved swiftly and gracefully across the stage.	entailment	The dancer breezed across the stage.
+The dancer paused in the middle of the stage.	The dancer moved swiftly and gracefully across the stage.	not_entailment	The dancer breezed across the stage.
+For the Summer-time will soon begin ,	The summer season is approaching.	entailment	For the Summer-time is coming ,
+For this summer is coming to an end.	The summer season is approaching.	not_entailment	For the Summer-time is coming ,
+This office is as lively as a bustling beehive.	The office is filled with people working on various tasks.	entailment	This office is buzzing with activity.
+This office is desolate due to the abandonment of work.	The office is filled with people working on various tasks.	not_entailment	This office is buzzing with activity.
+In the depth of the night I lie in the bed.	I lie down in bed late at night.	entailment	In the depth of the night I sink in the bed.
+At midnight I wake up from my bed.	I lie down in bed late at night.	not_entailment	In the depth of the night I sink in the bed.
+She said he was very nice and he beamed a smile at her.	She described him as very pleasant and he smiled widely.	entailment	She said he was very sweet and he smiled brightly.
+She said he was very sweet and he frowned.	She described him as very pleasant and he smiled widely.	not_entailment	She said he was very sweet and he smiled brightly.
+I struggled through the work.	I worked hard on the task.	entailment	I toiled through the work.
+I ace through the work.	I worked hard on the task.	not_entailment	I toiled through the work.
+Joseph is such a couragious guy.	Joseph is as brave as a lion.	entailment	Joseph has the heart of a lion.
+Joseph has the calm demeanor of a lamb.	Joseph is as brave as a lion.	not_entailment	Joseph has the heart of a lion.
+His skin was poked by the needle.	The sharp tip of the needle pricked his skin.	entailment	The needle nipped his skin.
+The needle avoided his skin.	The sharp tip of the needle pricked his skin.	not_entailment	The needle nipped his skin.
+William always got hooked on cigarettes.	William enjoyed smoking cigarettes.	entailment	William loved cigarettes.
+William hated cigarettes.	William enjoyed smoking cigarettes.	not_entailment	William loved cigarettes.
+Fame and fortune are for real heroes.	Fame is a quality that is strongly associated with heroes.	entailment	Fame clings to the heroes.
+Fame avoids the heroes.	Fame is a quality that is strongly associated with heroes.	not_entailment	Fame clings to the heroes.
+The car made noises as I roughly turned the key in its ignition.	The car made a loud, high-pitched sound as the key was turned forcefully in the ignition.	entailment	The car bleated as the key was roughly turned in its ignition.
+The car broke down and made no sound because the person turned the key in the ignition very roughly.	The car made a loud, high-pitched sound as the key was turned forcefully in the ignition.	not_entailment	The car bleated as the key was roughly turned in its ignition.
+The wind roared; the waves collided - we were in great danger.	The wind made a howling sound; the waves crashed against each other - we were in a dangerous situation.	entailment	The wind howled; the waves dashed their bucklers together - we were in the jaws of death.
+The wind whistled; the waves swished through their pearly gates - we were in the womb of an angel.	The wind made a howling sound; the waves crashed against each other - we were in a dangerous situation.	not_entailment	The wind howled; the waves dashed their bucklers together - we were in the jaws of death.
+Make the child feel proud.	Make the child feel proud.	entailment	Fill the child with pride.
+Empty the child with pride.	Make the child feel proud.	not_entailment	Fill the child with pride.
+You liked what you heard so much you just wanted to believe it.	You were eager to accept what you heard as true.	entailment	You were dying to believe in what you heard.
+You couldn't have wanted to believe in what you heard.	You were eager to accept what you heard as true.	not_entailment	You were dying to believe in what you heard.
+It is a fair assumption to say that you didn't do your homework..	I am confident that you have not completed your assigned school tasks.	entailment	I bet you have not done your homework.
+I doubt you didn't do your homework.	I am confident that you have not completed your assigned school tasks.	not_entailment	I bet you have not done your homework.
+And then said additionally, speaking slowly ,	And then continued, talking at a slow pace,	entailment	And then added, speaking slowly ,
+And then to the contrary, speaking slowly.	And then continued, talking at a slow pace,	not_entailment	And then added, speaking slowly ,
+It occured to him that she has betrayed him.	He thought that she had been unfaithful to him.	entailment	It appeared to him that she had betrayed him.
+It did not appear to him him that she is not always loyal to him.	He thought that she had been unfaithful to him.	not_entailment	It appeared to him that she had betrayed him.
+The music from the drawing room drifted upwards and she felt like asleep.	She fell asleep while listening to music coming from the room below.	entailment	She fell asleep to the sound of music drifting upwards from the drawing-room .
+She fell asleep to the sound of music sinking out from the drawing-room .	She fell asleep while listening to music coming from the room below.	not_entailment	She fell asleep to the sound of music drifting upwards from the drawing-room .
+His playing is an epitome of Romantic.	His performance on the piano confirmed his status as a musician in the Romantic style.	entailment	His playing secured him as a Romantic.
+His playing denounced him as a Romantic.	His performance on the piano confirmed his status as a musician in the Romantic style.	not_entailment	His playing secured him as a Romantic.
+The promise between us was beautiful and fragile.	The agreement we made was as delicate as a flower.	entailment	The promise between us was a flower.
+The promise between us was a poisonous snake.	The agreement we made was as delicate as a flower.	not_entailment	The promise between us was a flower.
+A very bright sun shines high in the sky.	The sun, which is a celestial body that appears yellow in color, is positioned at a high altitude in the atmosphere.	entailment	A golden sun shines high in the sky.
+A sunset is setting in the west.	The sun, which is a celestial body that appears yellow in color, is positioned at a high altitude in the atmosphere.	not_entailment	A golden sun shines high in the sky.
+All the starts were dancing in the night sky.	The stars move in a rhythmic pattern resembling the cha-cha dance in the night sky.	entailment	The stars cha-cha in the night sky.
+Stars start fading in the night sky.	The stars move in a rhythmic pattern resembling the cha-cha dance in the night sky.	not_entailment	The stars cha-cha in the night sky.
+Blazed and shone out suddenly the red horizon ,	The red horizon burned brightly with a wide, fiery glow.	entailment	Blazed and flared the red horizon ,
+Blazed and dimmed out the red horizon ,	The red horizon burned brightly with a wide, fiery glow.	not_entailment	Blazed and flared the red horizon ,
+He feels a seething anger inside.	He experienced a sudden and intense surge of anger.	entailment	He felt a wave of anger.
+He felt mild anger.	He experienced a sudden and intense surge of anger.	not_entailment	He felt a wave of anger.
+I felt really alone when I was surrounded by all these people I didn't know.	I was surrounded by many people I did not know.	entailment	I was alone in a sea of unknown faces.
+I was alone amidst many familiar faces.	I was surrounded by many people I did not know.	not_entailment	I was alone in a sea of unknown faces.
+I miss staring in her eyes and watching her.	I miss looking into her eyes and observing her.	entailment	I miss wandering in her eyes and watching her.
+I miss neglecting her eyes and watching her.	I miss looking into her eyes and observing her.	not_entailment	I miss wandering in her eyes and watching her.
+All fire-flush 'd when forest trees smoldered.	All the trees in the forest were destroyed by the fire.	entailment	All fire-flush 'd when forest trees crumbled.
+All fire-flush 'd when forest trees grew.	All the trees in the forest were destroyed by the fire.	not_entailment	All fire-flush 'd when forest trees crumbled.
+He burdened him with work.	He gave him a lot of work.	entailment	He heaped him with work.
+He rewarded him with relaxation at his job.	He gave him a lot of work.	not_entailment	He heaped him with work.
+I am such a good person that others are easily taking advantage of me.	I am a shepherd who protects and cares for the sheep, and I am willing to sacrifice my life to ensure their safety and well-being.	entailment	I am the good shepherd and I lay down my life for the sheep.
+I am the bad shepherd and I take the sheep to a place where they are slaughtered for my own pleasure.	I am a shepherd who protects and cares for the sheep, and I am willing to sacrifice my life to ensure their safety and well-being.	not_entailment	I am the good shepherd and I lay down my life for the sheep.
+The over-production of oil at market depressed gasoline prices.	The excess of oil caused gas prices to decrease.	entailment	The glut of oil depressed gas prices.
+The glut of oil raised gas prices.	The excess of oil caused gas prices to decrease.	not_entailment	The glut of oil depressed gas prices.
+His heart runs faster than his footsteps.	His heart rate exceeded the pace of his running.	entailment	And his heart outran his footsteps.
+And his heart raced slower than his feet could carry him.	His heart rate exceeded the pace of his running.	not_entailment	And his heart outran his footsteps.
+The government allowed the value of the ruble to be determined by the markets for a few months.	The government allowed the ruble to fluctuate freely for a few months.	entailment	The government floated the ruble for a few months.
+the government immediately sunk the ruble.	The government allowed the ruble to fluctuate freely for a few months.	not_entailment	The government floated the ruble for a few months.
+My son drifted around all over the place, wasting his time in California, before settling down in law school.	My son moved from place to place in California for several years before he enrolled in law school.	entailment	My son drifted around for years in california before going to law school.
+All my son has ever done is live at home and go to law school.	My son moved from place to place in California for several years before he enrolled in law school.	not_entailment	My son drifted around for years in california before going to law school.
+There was a big hell broke out in night sky.	The sky at night was illuminated by the light of many explosions.	entailment	The night sky blazed with the massive bombardment.
+The night sky became lighter and brighter because of the excessive bombardment .	The sky at night was illuminated by the light of many explosions.	not_entailment	The night sky blazed with the massive bombardment.
+Then a snow-white cloud developing ,	Then a cloud that is the color of snow, which was previously compact, began to expand and spread out.	entailment	Then a snow-white cloud unfolding ,
+Then a snow-white cloud shrinked.	Then a cloud that is the color of snow, which was previously compact, began to expand and spread out.	not_entailment	Then a snow-white cloud unfolding ,
+Sunflower seeds were sown by her.	She scattered sunflower seeds.	entailment	She sprinkled sunflower seeds.
+She assembled sunflower seeds.	She scattered sunflower seeds.	not_entailment	She sprinkled sunflower seeds.
+A flame ablaze that appear amid the skies.	A burning flame that moved through the air.	entailment	A flame ablaze that skipped amid the skies.
+I see flames ablaze and then disappear after a while in the sky.	A burning flame that moved through the air.	not_entailment	A flame ablaze that skipped amid the skies.
+Disheartened by the refusal.	The refusal made him feel as if he had been physically struck.	entailment	Dashed by the refusal.
+Remained cheerful at the rejection.	The refusal made him feel as if he had been physically struck.	not_entailment	Dashed by the refusal.
+As the springs to be exposed to the sunshine ,	As the flowers open to receive the sunlight,	entailment	As the springs to meet the sunshine ,
+As the springs never meet the sunshine ,	As the flowers open to receive the sunlight,	not_entailment	As the springs to meet the sunshine ,
+Living in a camp for weeks tired him.	The harsh conditions of the camp caused him to become weak and unwell.	entailment	Life in the camp wilted him.
+The camp life really had energized him.	The harsh conditions of the camp caused him to become weak and unwell.	not_entailment	Life in the camp wilted him.
+The demon king Raavan became happy.	Raavan felt happier and more motivated.	entailment	That boosted Raavan's spirits.
+That brought Raavan down.	Raavan felt happier and more motivated.	not_entailment	That boosted Raavan's spirits.
+He was doing some gardening.	He scattered fertilizer over the lawn.	entailment	He peppered fertilizer over the lawn.
+He gathered fertilizer over the lawn.	He scattered fertilizer over the lawn.	not_entailment	He peppered fertilizer over the lawn.
+Ricardo saw her as nothing more than an accomplishment.	Ricardo only valued her as a symbol of his success.	entailment	She was just a trophy to Ricardo.
+She was the love of Ricardo's life.	Ricardo only valued her as a symbol of his success.	not_entailment	She was just a trophy to Ricardo.
