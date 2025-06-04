@@ -36,4 +36,4 @@ Code for evaluation in zero-, few-shot and Chain-of-thought setups.
   - 
 
 # VLLM
-`zero_shot_vllm.py` loads a LLMs with a higher number of parameters, e.g., Qwen-2.5-72B and does inference over all datasets. To run this code, see examples like `eval_qwen72b.sh` and `eval_qwen72b_paraphrases.sh`.
+`zero_shot_vllm.py` loads LLMs with a higher number of parameters, e.g., Qwen-2.5-72B and does inference over all datasets. To run this code, see examples like `eval_qwen72b.sh` and `eval_qwen72b_paraphrases.sh`.
