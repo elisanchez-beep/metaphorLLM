@@ -1,56 +1,60 @@
-{
+{   "task_config": {
+        "lang": "es",
+        "task": "binary",
+        "prompt_type": "chain",
+        "output_dir": "metaphor_LLM/zero_shot/interpretation/outputs"
+    },
     "datasets": {
         "figurative-nli": {
-            "data_path": "/gaueko0/users/esanchez/metaphor_LLMs/data/corpora/interpretation/Figurative-NLI-main/data/metaphor-entail.json",
-            "data_path_paraphrase": "/gaueko0/users/esanchez/metaphor_LLMs/paraphrase_gen/outputs/figurative-nli/mistralinstruct/instruct_15-10-2024_12_08_20.tsv",
+            "data_path": "metaphorLLM/data/interpretation/Figurative-NLI/metaphor-entail.json",
+            "data_path_paraphrase": "metaphorLLM/data/paraphrases/figurative-nli/commandr/15-10-2024_10_00_01.tsv",
             "prem_col": "premise",
             "hyp_col": "hypothesis",
             "label_col": "label",
             "prompts": ["binary", "paraphrase_gen"]
         },
         "flute": {
-            "data_path": "/gaueko0/users/esanchez/metaphor_LLMs/data/corpora/interpretation/flute/testgolddata/metaphor_test_binary_labels.tsv",
-            "data_path_paraphrase": "/gaueko0/users/esanchez/metaphor_LLMs/paraphrase_gen/outputs/flute/mistralinstruct/instruct_15-10-2024_12_03_11.tsv",
+            "data_path": "metaphorLLM/data/interpretation/FLUTE/metaphor_test_binary_labels.tsv",
+            "data_path_paraphrase": "metaphorLLM/data/paraphrases/flute/commandr/15-10-2024_10_03_13.tsv",
             "prem_col": "premise",
             "hyp_col": "hypothesis",
             "label_col": "label",
             "prompts": ["binary", "paraphrase_gen"]
         },
         "impli": {
-            "data_path": "/gaueko0/users/esanchez/metaphor_LLMs/data/corpora/interpretation/impli/metaphors/manual_all.tsv",
-            "data_path_paraphrase": "/gaueko0/users/esanchez/metaphor_LLMs/paraphrase_gen/outputs/impli/commandr/15-11-2024_11_10_23.tsv",
+            "data_path": "metaphorLLM/data/interpretation/IMPLI/manual_all.tsv",
+            "data_path_paraphrase": "metaphorLLM/data/paraphrases/impli/commandr/15-11-2024_11_10_23.tsv",
             "prem_col": "premise",
             "hyp_col": "hypothesis",
             "label_col": "label",
             "prompts": ["binary", "paraphrase_gen"]
         },
         "fig-qa": {
-            "data_path": "/gaueko0/users/esanchez/metaphor_LLMs/data/corpora/interpretation/Fig-QA-master/data/filtered/dev_binary_labels.tsv",
-            "data_path_paraphrase": "/gaueko0/users/esanchez/metaphor_LLMs/paraphrase_gen/outputs/fig-qa/mistralinstruct/instruct_15-10-2024_12_24_05.tsv",
+            "data_path": "metaphorLLM/data/interpretation/Fig-QA/dev_binary_labels.tsv",
+            "data_path_paraphrase": "metaphorLLM/data/paraphrases/fig-qa/commandr/15-10-2024_09_53_49.tsv",
             "prem_col": "premise",
             "hyp_col": "hypothesis",
             "label_col": "label",
             "prompts": ["binary", "paraphrase_gen"]
         },
         "meta4xnli": {
-            "data_path": "/gaueko0/users/esanchez/metaphor_LLMs/data/corpora/interpretation/meta4xnli/test_all_binary_labels_met_location.tsv",
-            "data_path_paraphrase": "/gaueko0/users/esanchez/metaphor_LLMs/paraphrase_gen/outputs/meta4xnli/mistralinstruct/instruct_15-10-2024_11_14_41.tsv",
+            "data_path": "metaphorLLM/data/interpretation/meta4xnli/test_met_binary_labels.tsv",
+            "data_path_paraphrase": "metaphorLLM/data/paraphrases/meta4xnli/commandr/15-10-2024_10_13_19.tsv",
             "prem_col": "sentence1",
             "hyp_col": "sentence2",
             "label_col": "gold_label",
-            "prompts": ["binary", "trilabel", "paraphrase_gen"]
+            "prompts": ["binary", "paraphrase_gen"]
         }
     },
     "models": {
-        "llama2": "/gaueko1/hizkuntza-ereduak/LLaMA-2/huggingface/first-release/Llama-2-7b-hf",
-        "llama2chat": "meta-llama/Llama-2-7b-chat-hf",
-        "llama3": "meta-llama/Meta-Llama-3-8B",
         "llama3instruct": "meta-llama/Meta-Llama-3-8B-Instruct",
-        "mixtral8": "mistralai/Mixtral-8x7B-v0.1",
+        "llama3-70b": "meta-llama/Meta-Llama-3-70B",
         "mistral7": "mistralai/Mistral-7B-v0.1",
-        "mixtralinstruct": "mistralai/Mixtral-8x7B-Instruct-v0.1",
-        "mistralinstruct": "mistralai/Mistral-7B-Instruct-v0.2",
-        "commandr": "command-r-plus-08-2024"
+        "commandr": "command-r-plus-08-2024",
+        "qwen-7b": "Qwen/Qwen2.5-7B-Instruct",
+        "qwen-72b": "Qwen/Qwen2.5-72B-Instruct",
+        "gemma4": "google/gemma-3-4b-it",
+        "gemma27": "google/gemma-3-27b-it"
     },
     "prompts": {
         "binary": {
