@@ -32,4 +32,8 @@ Code for evaluation in zero-, few-shot and Chain-of-thought setups.
 - `chain.sh`: example to evaluate original metaphorical dataset with the specified model in `-model`argument. Predictions will be dumped in the path specified in `-output`.
   - `-prompt-type`: nli-zero, qa-few-ent, chain.
 - `qa-few-ent_commandr.sh`: example to evaluate literal paraphrases generated with Commandr.
-  - To evaluate paraphrases, `-paraphrases` flag must be added. Also, the model used to generate the paraphrases in `-paraphrases_source` (commandr, mistralinstruct). 
+  - To evaluate paraphrases, `-paraphrases` flag must be added. Also, the model used to generate the paraphrases in `-paraphrases_source` (commandr, mistralinstruct).
+  - 
+
+# VLLM
+`zero_shot_vllm.py` loads a LLMs with a higher number of parameters, e.g., Qwen-2.5-72B and does inference over all datasets. To run this code, see examples like `eval_qwen72b.sh` and `eval_qwen72b_paraphrases.sh`.
